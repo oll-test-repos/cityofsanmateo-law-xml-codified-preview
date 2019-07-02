@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>San Mateo Law Library</heading>
+  <meta>
+    <description>Browse the laws and code of San Mateo</description>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/cityofsanmateo/law-xml</xml-bulk>
+      <html-bulk>https://github.com/cityofsanmateo/law-html</html-bulk>
+      <html>https://sanmateo.ca.us.open.law</html>
+    </canonical-urls>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="cityofsanmateo/law-xml" commit="b8dd181126ee83712ecbbb05fccd94f2fd4bc473"/>
+      </repositories>
+      <platform version="2019.4.0" reproducible="true"/>
+      <date>2019-07-02 21:30:14</date>
+      <through-date>2019-07-17</through-date>
+    </build>
+  </meta>
+  <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>
+  <xi:include href="./us/ca/cities/san-mateo/code/index.xml"/>
+  <collection name="us/ca/cities/san-mateo/ordinances">
+    <heading>Ordinances</heading>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2019/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2018/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2017/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2016/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2015/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2014/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2013/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2012/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2011/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2010/index.xml"/>
+  </collection>
+</library>
