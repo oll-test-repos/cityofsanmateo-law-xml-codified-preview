@@ -1443,7 +1443,7 @@
           <num>(3)</num>
           <text>A tax of ten dollars for the entire period of such meeting for each person employed in such business within the City;</text>
         </para>
-        <text>Where any such meeting extends over a period of fewer than thirty days:</text>
+        <aftertext>Where any such meeting extends over a period of fewer than thirty days:</aftertext>
         <para proof="done">
           <num>(1)</num>
           <text>A tax of five dollars for each day during such meeting for selling any racing form under one title or name, and</text>
@@ -1610,8 +1610,8 @@
       <para>
         <num>(2)</num>
         <text>The name, state license number, motor number, serial number, style and seating capacity of any such used motor vehicle purchased or received.</text>
-        <text>The report of all purchases, assignments and sales or exchanges of motor vehicles shall at all times be open to the inspection of the Chief of Police or any other police officer of the City.</text>
       </para>
+      <aftertext>The report of all purchases, assignments and sales or exchanges of motor vehicles shall at all times be open to the inspection of the Chief of Police or any other police officer of the City.</aftertext>
       <annotations>
         <annotation type="History">Prior code § 72.02</annotation>
       </annotations>
@@ -4178,8 +4178,8 @@
       <para>
         <num>(7)</num>
         <text>A statement that the amusement machine for which a permit is sought is not intended to be, and will not be permitted to be, used for any gambling purpose whatsoever.</text>
-        <text>Each application shall be accompanied by the applicable permit fee.</text>
       </para>
+      <aftertext>Each application shall be accompanied by the applicable permit fee.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1972-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1972-4" path="§1" type="History"/>
@@ -4545,8 +4545,8 @@
       <para>
         <num>(3)</num>
         <text>When hired, to accept other passengers until the service for which they have been hired is completed.</text>
-        <text>Taxicabs shall at all times, when in operation and not engaged, furnish service on demand to any orderly person for lawful purposes.</text>
       </para>
+      <aftertext>Taxicabs shall at all times, when in operation and not engaged, furnish service on demand to any orderly person for lawful purposes.</aftertext>
       <annotations>
         <annotation type="History">Prior code § 75.16</annotation>
       </annotations>
@@ -4576,20 +4576,14 @@
         <para>
           <num>(1)</num>
           <text>A framed panel, enclosing on separate lines the name of the owner, the word "taxicab" and the serial body number assigned the taxicab by the license collector. Such panel shall be painted on each side of the taxicab, and shall cover no less area than 10 inches by 12 inches. The form of such panel shall be substantially as follows:</text>
-          <text>
-            <center>
-              <strong>JOHN T. SMITH</strong>
-            </center>
+          <text class="center">
+            <strong>JOHN T. SMITH</strong>
           </text>
-          <text>
-            <center>
-              <strong>TAXICAB</strong>
-            </center>
+          <text class="center">
+            <strong>TAXICAB</strong>
           </text>
-          <text>
-            <center>
-              <strong>320</strong>
-            </center>
+          <text class="center">
+            <strong>320</strong>
           </text>
         </para>
         <para>
@@ -4670,9 +4664,9 @@
       <para>
         <num>(6)</num>
         <text>The holder of a valid driver's license issued by the State.</text>
-        <text>The application form shall set forth such information as the Tax Collector may require, and shall be accompanied by the certificate of a physician that applicant is free from infirmities which would prevent his or her driving a public conveyance with safety.</text>
-        <text>Applicant shall also submit to fingerprinting and photographing by the Police Department for the police record. One photograph shall be filed with the Police Department. The other shall be affixed to the identification card as required in <cite path="5.75.250">Section 5.75.250</cite>. The costs of fingerprinting and photographing shall be paid before the application will be processed.</text>
       </para>
+      <aftertext>The application form shall set forth such information as the Tax Collector may require, and shall be accompanied by the certificate of a physician that applicant is free from infirmities which would prevent his or her driving a public conveyance with safety.</aftertext>
+      <aftertext>Applicant shall also submit to fingerprinting and photographing by the Police Department for the police record. One photograph shall be filed with the Police Department. The other shall be affixed to the identification card as required in <cite path="5.75.250">Section 5.75.250</cite>. The costs of fingerprinting and photographing shall be paid before the application will be processed.</aftertext>
       <annotations>
         <annotation type="History">prior code § 75.53</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§152" type="History"/>
@@ -5211,8 +5205,8 @@
       <para>
         <num>(4)</num>
         <text>Whether the applicant will operate through independent contractors who act as escorts, and if so, the number of independent contractors through whom it expects to operate;</text>
-        <text>No applications under <cite path="5.83">this chapter</cite> shall be made by, and no permit shall be issued to, a corporation or partnership.</text>
       </para>
+      <aftertext>No applications under <cite path="5.83">this chapter</cite> shall be made by, and no permit shall be issued to, a corporation or partnership.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-32" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§188" type="History"/>
@@ -5249,8 +5243,8 @@
       <para>
         <num>(5)</num>
         <text>The applicant has not knowingly and with intent to deceive made any false, misleading or fraudulent statement in his or her application or in any other document required to be submitted in conjunction with the application.</text>
-        <text>The permit shall be denied if all of the above findings are not made or if all required information has not been supplied. If the permit is denied, the reasons for the denial shall be endorsed on the application, and the bureau shall, by first class mail, notify the applicant of the denial with a copy of the application on which have been endorsed the reasons for the denial.</text>
       </para>
+      <aftertext>The permit shall be denied if all of the above findings are not made or if all required information has not been supplied. If the permit is denied, the reasons for the denial shall be endorsed on the application, and the bureau shall, by first class mail, notify the applicant of the denial with a copy of the application on which have been endorsed the reasons for the denial.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-32" path="§1" type="History"/>
       </annotations>
