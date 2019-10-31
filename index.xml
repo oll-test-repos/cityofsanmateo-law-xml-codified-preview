@@ -13,11 +13,11 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="c1584a748d825d4d12a65647771649e54d79a890"/>
+        <repository name="cityofsanmateo/law-xml" commit="99e50fd6a2ace1340313fed2d4547342a908ac6f"/>
       </repositories>
-      <platform version="2019.6.1" reproducible="true"/>
-      <date>2019-09-20 16:54:43</date>
-      <through-date>2020-01-01</through-date>
+      <platform version="2019.7.1" reproducible="true"/>
+      <build-date>2019-10-31</build-date>
+      <codified-date>2020-01-01</codified-date>
     </build>
   </meta>
   <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>
