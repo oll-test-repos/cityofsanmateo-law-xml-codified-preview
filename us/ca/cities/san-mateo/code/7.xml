@@ -9,7 +9,7 @@
     <num>7.04</num>
     <heading>ADMINISTRATION</heading>
     <annotations>
-      <annotation type="Editor's Notes">For the statutory authority of cities to make such health regulations as necessary to protect the public health, see Cal. Health &amp; S.C.A. § 500; for the provisions regarding the State Board of Health, see Cal. Health &amp; S.C.A. § 200 et seq.; for the provision authorizing the board to promulgate rules and regulations, see Cal. Health &amp; S.C.A. § 208.</annotation>
+      <annotation type="Editor's Notes" dest="container">For the statutory authority of cities to make such health regulations as necessary to protect the public health, see Cal. Health &amp; S.C.A. § 500; for the provisions regarding the State Board of Health, see Cal. Health &amp; S.C.A. § 200 et seq.; for the provision authorizing the board to promulgate rules and regulations, see Cal. Health &amp; S.C.A. § 208.</annotation>
     </annotations>
     <section>
       <num>7.04.010</num>
@@ -1582,66 +1582,36 @@
             </p>
           </caption>
           <tr>
-            <th>
-              <strong>
-                <ul>Noise Zone</ul>
-              </strong>
-            </th>
-            <th>
-              <strong>
-                <ul>Time Period</ul>
-              </strong>
-            </th>
-            <th>
-              <strong>
-                <ul>Noise Level (dB)</ul>
-              </strong>
-            </th>
+            <th>Noise Zone</th>
+            <th>Time Period</th>
+            <th>Noise Level (dB)</th>
           </tr>
           <tr>
-            <td>Noise Zone 1</td>
+            <td rowspan="2">Noise Zone 1</td>
             <td>10 p.m.—7 a.m.</td>
             <td>50</td>
           </tr>
           <tr>
-            <td/>
             <td>7 a.m.—10 p.m.</td>
             <td>60</td>
           </tr>
           <tr>
-            <td/>
-            <td/>
-            <td/>
-          </tr>
-          <tr>
-            <td>Noise Zone 2</td>
+            <td rowspan="2">Noise Zone 2</td>
             <td>10 p.m.—7 a.m.</td>
             <td>55</td>
           </tr>
           <tr>
-            <td/>
             <td>7 a.m.—10 p.m.</td>
             <td>60</td>
           </tr>
           <tr>
-            <td/>
-            <td/>
-            <td/>
-          </tr>
-          <tr>
-            <td>Noise Zone 3</td>
+            <td rowspan="2">Noise Zone 3</td>
             <td>10 p.m.—7 a.m.</td>
             <td>60</td>
           </tr>
           <tr>
-            <td/>
             <td>7 a.m.—10 p.m.</td>
             <td>65</td>
-          </tr>
-          <tr>
-            <td/>
-            <td/>
-            <td/>
           </tr>
           <tr>
             <td>Noise Zone 4</td>
@@ -1827,7 +1797,7 @@
     <num>7.32</num>
     <heading>GARBAGE</heading>
     <annotations>
-      <annotation type="Editor's Notes">For the statutory provisions regarding the authority of cities to contract for the collection and disposal of garbage see <cite doc="Cal. Gov't Code" path="§4250">Cal. Gov. C.A. § 4250</cite>. For the provisions authorizing cities to acquire land within the county that the City is located in, for a dump site, see Cal. Gov. C.C. § 38790. However, if the land acquired is outside the corporate limits of the City the consent of the county board of supervisors must be obtained.</annotation>
+      <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the authority of cities to contract for the collection and disposal of garbage see <cite doc="Cal. Gov't Code" path="§4250">Cal. Gov. C.A. § 4250</cite>. For the provisions authorizing cities to acquire land within the county that the City is located in, for a dump site, see Cal. Gov. C.C. § 38790. However, if the land acquired is outside the corporate limits of the City the consent of the county board of supervisors must be obtained.</annotation>
     </annotations>
     <section>
       <num>7.32.010</num>

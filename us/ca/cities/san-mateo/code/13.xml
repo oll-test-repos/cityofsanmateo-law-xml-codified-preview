@@ -9,7 +9,7 @@
     <num>13.01</num>
     <heading>DEFINITIONS</heading>
     <annotations>
-      <annotation type="Editor's Notes">For provisions relating to the park and recreation commission, see <cite path="2.27">Chapter 2.27</cite>. For provisions relating to the department of parks and recreation, see <cite path="2.45">Chapter 2.45</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to the park and recreation commission, see <cite path="2.27">Chapter 2.27</cite>. For provisions relating to the department of parks and recreation, see <cite path="2.45">Chapter 2.45</cite>.</annotation>
     </annotations>
     <section>
       <num>13.01.001</num>
@@ -564,7 +564,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>13.25</num>
-    <heading>MARINA LAGOON	REGULATIONS</heading>
+    <heading>MARINA LAGOON REGULATIONS</heading>
     <annotations/>
     <section>
       <num>13.25.010</num>

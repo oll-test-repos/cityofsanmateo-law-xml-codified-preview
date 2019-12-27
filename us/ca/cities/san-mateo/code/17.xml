@@ -4,15 +4,15 @@
   <num>17</num>
   <heading>STREETS AND SIDEWALKS</heading>
   <annotations>
-    <annotation type="Editor's Notes">For the provision of the City Charter which authorizes the City to make public improvements including the improving, widening or opening of streets or highways under and in pursuance of State law or procedure ordinances adopted by the Council or electors see Section 5.25. For the statutory provisions regarding the construction, improvement and repair of streets and sidewalks by cities see Cal. Gov. C. § 40401.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the provision of the City Charter which authorizes the City to make public improvements including the improving, widening or opening of streets or highways under and in pursuance of State law or procedure ordinances adopted by the Council or electors see Section 5.25. For the statutory provisions regarding the construction, improvement and repair of streets and sidewalks by cities see Cal. Gov. C. § 40401.</annotation>
   </annotations>
   <container>
     <prefix>Chapter</prefix>
     <num>17.08</num>
     <heading>OBSTRUCTIONS—LITTER</heading>
     <annotations>
-      <annotation type="Editor's Notes">For provisions relating to street standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite> of this code.</annotation>
-      <annotation type="Editor's Notes">For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov't Code" path="§38775">Gov. Code § 38775</cite>. For provisions relating to liability for injury, see <cite path="15.20">Chapter 15.20</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to street standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite> of this code.</annotation>
+      <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov't Code" path="§38775">Gov. Code § 38775</cite>. For provisions relating to liability for injury, see <cite path="15.20">Chapter 15.20</cite>.</annotation>
     </annotations>
     <section>
       <num>17.08.010</num>
@@ -1506,7 +1506,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Summary Abatement. Notwithstanding the provisions of subsections (A)	and (B), prior notice and an opportunity to be heard shall not be required prior to removal of any News Dispenser that is installed or maintained in such place or manner as to pose an immediate or clear and present danger to persons, vehicles or property. In such case, the City shall proceed in the following manner:</text>
+          <text>Summary Abatement. Notwithstanding the provisions of subsections (A) and (B), prior notice and an opportunity to be heard shall not be required prior to removal of any News Dispenser that is installed or maintained in such place or manner as to pose an immediate or clear and present danger to persons, vehicles or property. In such case, the City shall proceed in the following manner:</text>
           <para>
             <num>(A)</num>
             <text>Within the next working day following removal/recapture, the Director or designee shall notify by telephone the permittee or, in the case of an unpermitted News Dispenser or Compartment, the owner or user. Within three business days, the Director or designee shall send written confirmation of the telephoned notice. The written confirmation shall contain the reasons for the removal/recapture and information supporting the removal/recapture, and shall inform the recipient of the right to request, in writing or in person within ten business days of the date of such written notice, a post-removal/recapture meeting.</text>
@@ -1650,7 +1650,7 @@
     <num>17.20</num>
     <heading>STREET SIGNS</heading>
     <annotations>
-      <annotation type="Editor's Notes">For provisions relating to street sign standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to street sign standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite>.</annotation>
     </annotations>
     <section>
       <num>17.20.010</num>

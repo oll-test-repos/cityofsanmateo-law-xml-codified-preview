@@ -11,7 +11,7 @@
     <num>2.03</num>
     <heading>CITY COUNCIL</heading>
     <annotations>
-      <annotation type="Editor's Notes">For the relevant provisions of the City charter see §§ 2.01-2.19 inclusively.</annotation>
+      <annotation type="Editor's Notes" dest="container">For the relevant provisions of the City charter see §§ 2.01-2.19 inclusively.</annotation>
     </annotations>
     <section>
       <num>2.03.010</num>
@@ -28,7 +28,7 @@
     <num>2.09</num>
     <heading>OFFICERS</heading>
     <annotations>
-      <annotation type="Editor's Notes">For the relevant provisions of the City charter see Art. II, Art. III, Art. IV, §§ 8.04 and 9.01.</annotation>
+      <annotation type="Editor's Notes" dest="container">For the relevant provisions of the City charter see Art. II, Art. III, Art. IV, §§ 8.04 and 9.01.</annotation>
     </annotations>
     <section>
       <num>2.09.010</num>
@@ -106,7 +106,7 @@
     <num>2.15</num>
     <heading>LIBRARY BOARD</heading>
     <annotations>
-      <annotation type="Editor's Notes">For the relevant provisions of the City charter see §§ 4.12 and 6.01-6.03. For relevant state statutes regarding the administration of public libraries see part 4, Div. 20, Chapter 3 West's <cite doc="Cal. Educ. Code">Cal. Educ. C.A.</cite></annotation>
+      <annotation type="Editor's Notes" dest="container">For the relevant provisions of the City charter see §§ 4.12 and 6.01-6.03. For relevant state statutes regarding the administration of public libraries see part 4, Div. 20, Chapter 3 West's <cite doc="Cal. Educ. Code">Cal. Educ. C.A.</cite></annotation>
     </annotations>
     <section>
       <num>2.15.010</num>
@@ -157,7 +157,7 @@
     <num>2.21</num>
     <heading>COMMUNITY RELATIONS COMMISSION</heading>
     <annotations>
-      <annotation type="Editor's Notes">Although not controlling, for statutory provisions pertaining to human relation commissions, see <cite doc="Cal. Gov't Code" path="§50260">Cal. Gov. C.A. § 50260</cite> et seq.</annotation>
+      <annotation type="Editor's Notes" dest="container">Although not controlling, for statutory provisions pertaining to human relation commissions, see <cite doc="Cal. Gov't Code" path="§50260">Cal. Gov. C.A. § 50260</cite> et seq.</annotation>
     </annotations>
     <section>
       <num>2.21.010</num>
@@ -533,12 +533,12 @@
     <num>2.36</num>
     <heading>FIRE DEPARTMENT</heading>
     <annotations>
-      <annotation type="Editor's Notes">For provisions relating to burning outside, see <cite path="10.24" proof="needed">Chapter 10.24</cite>.</annotation>
-      <annotation type="Editor's Notes">For provisions relating to combustible containers, see <cite path="7.32">Chapter 7.32</cite>.</annotation>
-      <annotation type="Editor's Notes">For provisions relating to fire prevention, see <cite path="10.16">Chapter 10.16</cite>.</annotation>
-      <annotation type="Editor's Notes">For provisions relating to fireworks, see <cite path="10.28" proof="needed">Chapter 10.28</cite>.</annotation>
-      <annotation type="Editor's Notes">For provisions relating to fire protection facilities, see <cite path="23.32">Chapter 23.32</cite>.</annotation>
-      <annotation type="Editor's Notes">For provisions relating to building fire standards, see <cite path="23.28">Chapter 23.28</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to burning outside, see <cite path="10.24" proof="needed">Chapter 10.24</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to combustible containers, see <cite path="7.32">Chapter 7.32</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to fire prevention, see <cite path="10.16">Chapter 10.16</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to fireworks, see <cite path="10.28" proof="needed">Chapter 10.28</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to fire protection facilities, see <cite path="23.32">Chapter 23.32</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to building fire standards, see <cite path="23.28">Chapter 23.28</cite>.</annotation>
     </annotations>
     <section>
       <num>2.36.010</num>
@@ -609,9 +609,9 @@
     <num>2.39</num>
     <heading>POLICE DEPARTMENT</heading>
     <annotations>
-      <annotation type="Editor's Notes">For the relevant provisions of the City charter see §§ 3.04 and 4.01.</annotation>
-      <annotation type="Editor's Notes">For provisions relating to private patrols, see <cite path="5.57">Chapter 5.57</cite>.</annotation>
-      <annotation type="Editor's Notes">For provisions relating to press identification cards, see <cite path="5.54" proof="needed">Chapter 5.54</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For the relevant provisions of the City charter see §§ 3.04 and 4.01.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to private patrols, see <cite path="5.57">Chapter 5.57</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to press identification cards, see <cite path="5.54" proof="needed">Chapter 5.54</cite>.</annotation>
     </annotations>
     <section>
       <num>2.39.010</num>
@@ -1258,7 +1258,7 @@
     <num>2.66</num>
     <heading>RETIREMENT SYSTEM</heading>
     <annotations>
-      <annotation type="Editor's Notes">For the statutory provisions regarding the election by the City to belong to the State Employees' Retirement System see West's Cal. C.A. §§ 20450 et seq. For the provisions regarding the State Employees' Retirement System generally see West's <cite doc="Cal. Gov't Code">Cal. Gov. C.A.</cite> §§ <cite doc="Cal. Gov't Code" path="§20000">20000</cite> et seq.</annotation>
+      <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the election by the City to belong to the State Employees' Retirement System see West's Cal. C.A. §§ 20450 et seq. For the provisions regarding the State Employees' Retirement System generally see West's <cite doc="Cal. Gov't Code">Cal. Gov. C.A.</cite> §§ <cite doc="Cal. Gov't Code" path="§20000">20000</cite> et seq.</annotation>
     </annotations>
     <section>
       <num>2.66.010</num>
@@ -1369,9 +1369,9 @@
     <num>2.75</num>
     <heading>FUNDS</heading>
     <annotations>
-      <annotation type="Editor's Notes">For the relevant provision of the City charter with regard to handling of city funds see §§ 5.08 and 5.10.</annotation>
-      <annotation type="Editor's Notes">For provisions relating to street fund—Vehicle tax, see <cite path="5.78" proof="needed">Chapter 5.78</cite> of this code.</annotation>
-      <annotation type="Editor's Notes">For provisions relating to general fund—Dog licenses, see <cite path="8.16" proof="needed">Chapter 8.16</cite> of this code.</annotation>
+      <annotation type="Editor's Notes" dest="container">For the relevant provision of the City charter with regard to handling of city funds see §§ 5.08 and 5.10.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to street fund—Vehicle tax, see <cite path="5.78" proof="needed">Chapter 5.78</cite> of this code.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to general fund—Dog licenses, see <cite path="8.16" proof="needed">Chapter 8.16</cite> of this code.</annotation>
     </annotations>
     <section>
       <num>2.75.010</num>

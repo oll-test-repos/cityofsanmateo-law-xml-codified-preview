@@ -4,7 +4,7 @@
   <num>10</num>
   <heading>PEACE, SAFETY AND MORALS</heading>
   <annotations>
-    <annotation type="Editor's Notes">For the City charter provision giving the City all powers necessary and appropriate to a municipal corporation and the general welfare of its inhabitants which are not prohibited by the constitution see Section 1.03.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the City charter provision giving the City all powers necessary and appropriate to a municipal corporation and the general welfare of its inhabitants which are not prohibited by the constitution see Section 1.03.</annotation>
   </annotations>
   <container>
     <prefix>Chapter</prefix>
@@ -387,7 +387,7 @@
     <num>10.16</num>
     <heading>FIRE REGULATIONS</heading>
     <annotations>
-      <annotation type="Editor's Notes">For provisions relating to the City fire department, see <cite path="2.36">Chapter 2.36</cite>.</annotation>
+      <annotation type="Editor's Notes" dest="container">For provisions relating to the City fire department, see <cite path="2.36">Chapter 2.36</cite>.</annotation>
     </annotations>
     <section>
       <num>10.16.010</num>
@@ -1024,7 +1024,7 @@
     <num>10.36</num>
     <heading>GAMBLING</heading>
     <annotations>
-      <annotation type="Editor's Notes">For the statutory provisions prohibiting gaming see Cal. Pen. C §§ 330-337h.</annotation>
+      <annotation type="Editor's Notes" dest="container">For the statutory provisions prohibiting gaming see Cal. Pen. C §§ 330-337h.</annotation>
     </annotations>
     <section>
       <num>10.36.010</num>
@@ -1689,7 +1689,7 @@
     <section>
       <num>10.65.060</num>
       <heading>TRAINING.</heading>
-      <text>Non-profit corporations that have employees or volunteers who work with or supervise children shall provide at least two hours of child abuse training within six months of the commencement of employment or volunteering.	The training received by an employee or volunteer shall be valid for a two-year period from the date of the training and notwithstanding the preceding paragraph, shall be transferable to other non-profit corporations without the need for further training during the two-year period.</text>
+      <text>Non-profit corporations that have employees or volunteers who work with or supervise children shall provide at least two hours of child abuse training within six months of the commencement of employment or volunteering. The training received by an employee or volunteer shall be valid for a two-year period from the date of the training and notwithstanding the preceding paragraph, shall be transferable to other non-profit corporations without the need for further training during the two-year period.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§4" type="History"/>

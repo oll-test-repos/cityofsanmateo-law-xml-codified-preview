@@ -3096,7 +3096,7 @@
           <text>Single family additions and accessory structures meeting one of the conditions set forth below:</text>
           <para>
             <num>(A)</num>
-            <text>Single family additions and accessory structures located within slope setbacks or on slopes greater than 15 percent (unless governed by (B)	below) provided:</text>
+            <text>Single family additions and accessory structures located within slope setbacks or on slopes greater than 15 percent (unless governed by (B) below) provided:</text>
             <para>
               <num>(i)</num>
               <text>A geotechnical report containing applicable foundation, grading and drainage recommendations may be required at the discretion of the City Engineer or Building Official. Factors to be considered in determining whether a geotechnical report is required include, but are not limited to, slope gradient, potential affect upon adjacent properties, construction method and subsurface geology;</text>
@@ -3130,7 +3130,7 @@
           <text>
             <table>
               <tr>
-                <th>SITE DEVELOPMENT PLANNING APPLICATION APPROVAL AUTHORITY</th>
+                <th colspan="2">SITE DEVELOPMENT PLANNING APPLICATION APPROVAL AUTHORITY</th>
               </tr>
               <tr>
                 <th>Zoning Administrator</th>
@@ -3234,7 +3234,7 @@
             </para>
             <para>
               <num>(vi)</num>
-              <text>The location of all the measures listed by the permittee under Subsections (iii), (iv)	and (v) above, shall be depicted on the site map and/or grading plan;</text>
+              <text>The location of all the measures listed by the permittee under Subsections (iii), (iv) and (v) above, shall be depicted on the site map and/or grading plan;</text>
             </para>
             <para>
               <num>(vii)</num>
@@ -3454,7 +3454,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>The time when, and the place where, such hearing is to be held.(D)	Hearing. The Planning Commission shall hold such hearing at the next regularly scheduled meeting at which all conditions of this Subsection can be met. At any such hearing, the permittee shall be given an opportunity to be heard, and he or she may call witnesses and present evidence on his or her behalf. Upon conclusion of such hearing the Planning Commission shall determine whether or not the permit shall be suspended, revoked or modified.</text>
+              <text>The time when, and the place where, such hearing is to be held.(D) Hearing. The Planning Commission shall hold such hearing at the next regularly scheduled meeting at which all conditions of this Subsection can be met. At any such hearing, the permittee shall be given an opportunity to be heard, and he or she may call witnesses and present evidence on his or her behalf. Upon conclusion of such hearing the Planning Commission shall determine whether or not the permit shall be suspended, revoked or modified.</text>
             </para>
           </para>
         </para>
@@ -4285,7 +4285,7 @@
         <text>Exterior doors shall comply with the following:</text>
         <para>
           <num>(1)</num>
-          <text>Exterior	doors (excluding individual unit-entry doors) and doors leading from garage areas into multiple dwelling buildings, and doors leading into stairwells below the sixth floor level, shall have self-locking (deadlatch) devices, allowing egress from the building or into the garage area, or stairwell, but requiring a key to be used to gain access to the interior of the building from the outside or garage area or into the hallways from the stairwell.</text>
+          <text>Exterior doors (excluding individual unit-entry doors) and doors leading from garage areas into multiple dwelling buildings, and doors leading into stairwells below the sixth floor level, shall have self-locking (deadlatch) devices, allowing egress from the building or into the garage area, or stairwell, but requiring a key to be used to gain access to the interior of the building from the outside or garage area or into the hallways from the stairwell.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4441,7 +4441,7 @@
           </para>
           <para>
             <num>(J)</num>
-            <text>On pairs of doors, the active leaf shall be secured with the type of lock required for single doors in subsection (a)(1)(B)	of this section. The inactive leaf shall be equipped with lever flush extension bolts or equivalent, protected by hardened material with a throw of three-fourths (3/4) inch at head and foot. Multiple point locks, cylinder-activated from the active leaf and satisfying the requirements above may be used in lieu of flushbolts.</text>
+            <text>On pairs of doors, the active leaf shall be secured with the type of lock required for single doors in subsection (a)(1)(B) of this section. The inactive leaf shall be equipped with lever flush extension bolts or equivalent, protected by hardened material with a throw of three-fourths (3/4) inch at head and foot. Multiple point locks, cylinder-activated from the active leaf and satisfying the requirements above may be used in lieu of flushbolts.</text>
             <text>An interviewer or peephole shall be provided in each main entry door and shall allow for 180 degree vision or more.</text>
           </para>
         </para>
@@ -4462,7 +4462,7 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>Double sliding patio doors shall be locked at the meeting rail and meet the locking requirements of subdivision (a)(2)(B)	of this section.</text>
+            <text>Double sliding patio doors shall be locked at the meeting rail and meet the locking requirements of subdivision (a)(2)(B) of this section.</text>
           </para>
         </para>
       </para>
@@ -5410,7 +5410,7 @@
     <num>23.70</num>
     <heading>GREEN BUILDING CODE</heading>
     <annotations>
-      <annotation type="Editor's Notes">Prior ordinance history: Ord. 2009-14.</annotation>
+      <annotation type="Editor's Notes" dest="container">Prior ordinance history: Ord. 2009-14.</annotation>
       <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
     </annotations>
     <section>

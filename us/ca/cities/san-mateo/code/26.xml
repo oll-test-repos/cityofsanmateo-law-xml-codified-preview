@@ -4,7 +4,7 @@
   <num>26</num>
   <heading>SUBDIVISIONS</heading>
   <annotations>
-    <annotation type="Editor's Notes">For the statutory provisions pertaining to subdivided lands and subdivisions see Cal. Gov't. Code §§ 66410 et seq.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions pertaining to subdivided lands and subdivisions see Cal. Gov't. Code §§ 66410 et seq.</annotation>
   </annotations>
   <container>
     <prefix>Chapter</prefix>
