@@ -46,7 +46,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="11.30">Chapter 11.30</cite> "Shared Mobility" is added to <cite doc="City of San Mateo, Cal., Code" path="11">Title 11, "Vehicles and Traffic," of the San Mateo Municipal Code</cite> to read as follows:</text>
-    <codify:insert doc="City of San Mateo, Cal., Code" path="11" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="11.30">
+    <codify:insert doc="City of San Mateo, Cal., Code" path="11" before="11.32" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="11.30">
       <container>
         <prefix>Chapter</prefix>
         <num>11.30</num>
@@ -58,10 +58,34 @@
         <prefix>CHAPTER</prefix>
         <num>11.30</num>
         <heading>SHARED MOBILITY</heading>
+        <toc>
+          <heading>Sections:</heading>
+          <toc-section>
+            <num>11.30.010</num>
+            <heading>Definitions</heading>
+          </toc-section>
+          <toc-section>
+            <num>11.30.020</num>
+            <heading>Shared Mobility Permits</heading>
+          </toc-section>
+          <toc-section>
+            <num>11.30.030</num>
+            <heading>Shared Mobility Device Parking</heading>
+          </toc-section>
+          <toc-section>
+            <num>11.30.040</num>
+            <heading>Permit Revocation or Suspension</heading>
+          </toc-section>
+          <toc-section>
+            <num>11.30.050</num>
+            <heading>Appeals</heading>
+          </toc-section>
+        </toc>
         <section>
           <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="11.30.010"/>
           <num>11.30.010</num>
-          <heading>Definitions. For the purposes of this Chapter 11.30, the following words and phrases shall have the meanings set forth herein:</heading>
+          <heading>Definitions.</heading>
+          <text>For the purposes of this Chapter 11.30, the following words and phrases shall have the meanings set forth herein:</text>
           <para>
             <num>(a)</num>
             <text>"Furniture zone" means the section of the sidewalk between the curb and through zone in which street furniture and amenities, such as lighting, benches, newspaper kiosks, utility poles, tree pits, and bicycle parking are provided. The furniture zone may also consist of green infrastructure elements.</text>

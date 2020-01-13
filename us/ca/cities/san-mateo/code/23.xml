@@ -2904,6 +2904,60 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>23.36</num>
+    <heading>Historical Building Code</heading>
+    <annotations>
+      <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§11|(a)" type="History"/>
+    </annotations>
+    <section>
+      <num>23.36.010</num>
+      <heading>Adoption</heading>
+      <para>
+        <num>(a)</num>
+        <text>The 2019 California Historical Building Code, California Code of Regulations,Title 24, Part 8, as adopted and amended by the State of California, hereinafter called "Historical Building Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No section of the Historical Building Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council, or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A copy of the Historical Building Code shall at all times be kept on file in the office of the City Clerk.</text>
+      </para>
+      <annotations>
+        <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§11|(a)" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>23.38</num>
+    <heading>Referenced Standards Code</heading>
+    <annotations>
+      <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§12|(a)" type="History"/>
+    </annotations>
+    <section>
+      <num>23.38.010</num>
+      <heading>Adoption</heading>
+      <para>
+        <num>(a)</num>
+        <text>The 2019 California Referenced Standards Code, California Code of Regulations, Title 24, Part 12, as adopted and amended by the State of California, hereinafter called "Referenced Standards Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No section of the California Referenced Standards Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council, or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A copy of the California Referenced Standards Code shall at all times be kept on file in the office of the City Clerk.</text>
+      </para>
+      <annotations>
+        <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§12|(a)" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>23.40</num>
     <heading>SITE DEVELOPMENT CODE</heading>
     <annotations/>
@@ -7021,60 +7075,6 @@ controller may also function as a landscape water meter or submeter.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-3" path="§1" type="History"/>
-      </annotations>
-    </section>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>23.36</num>
-    <heading>Historical Building Code</heading>
-    <annotations>
-      <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§11|(a)" type="History"/>
-    </annotations>
-    <section>
-      <num>23.36.010</num>
-      <heading>Adoption</heading>
-      <para>
-        <num>(a)</num>
-        <text>The 2019 California Historical Building Code, California Code of Regulations,Title 24, Part 8, as adopted and amended by the State of California, hereinafter called "Historical Building Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>No section of the Historical Building Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council, or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>A copy of the Historical Building Code shall at all times be kept on file in the office of the City Clerk.</text>
-      </para>
-      <annotations>
-        <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§11|(a)" type="History"/>
-      </annotations>
-    </section>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>23.38</num>
-    <heading>Referenced Standards Code</heading>
-    <annotations>
-      <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§12|(a)" type="History"/>
-    </annotations>
-    <section>
-      <num>23.38.010</num>
-      <heading>Adoption</heading>
-      <para>
-        <num>(a)</num>
-        <text>The 2019 California Referenced Standards Code, California Code of Regulations, Title 24, Part 12, as adopted and amended by the State of California, hereinafter called "Referenced Standards Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>No section of the California Referenced Standards Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council, or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>A copy of the California Referenced Standards Code shall at all times be kept on file in the office of the City Clerk.</text>
-      </para>
-      <annotations>
-        <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§12|(a)" type="History"/>
       </annotations>
     </section>
   </container>
