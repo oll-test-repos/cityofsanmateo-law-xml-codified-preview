@@ -3,13 +3,12 @@
   <prefix>Title</prefix>
   <num>7</num>
   <heading>HEALTH, SANITATION, AND PUBLIC NUISANCES</heading>
-  <annotations/>
   <container>
     <prefix>Chapter</prefix>
     <num>7.04</num>
     <heading>ADMINISTRATION</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">For the statutory authority of cities to make such health regulations as necessary to protect the public health, see Cal. Health &amp; S.C.A. § 500; for the provisions regarding the State Board of Health, see Cal. Health &amp; S.C.A. § 200 et seq.; for the provision authorizing the board to promulgate rules and regulations, see Cal. Health &amp; S.C.A. § 208.</annotation>
+      <annotation type="Editor's Notes">For the statutory authority of cities to make such health regulations as necessary to protect the public health, see Cal. Health &amp; S.C.A. § 500; for the provisions regarding the State Board of Health, see Cal. Health &amp; S.C.A. § 200 et seq.; for the provision authorizing the board to promulgate rules and regulations, see Cal. Health &amp; S.C.A. § 208.</annotation>
     </annotations>
     <section>
       <num>7.04.010</num>
@@ -62,7 +61,6 @@
     <prefix>Chapter</prefix>
     <num>7.14</num>
     <heading>PROPERTY MAINTENANCE CODE</heading>
-    <annotations/>
     <section>
       <num>7.14.010</num>
       <heading>ADOPTION.</heading>
@@ -346,7 +344,6 @@
     <prefix>Chapter</prefix>
     <num>7.16</num>
     <heading>PUBLIC NUISANCES</heading>
-    <annotations/>
     <section>
       <num>7.16.010</num>
       <heading>PUBLIC NUISANCE—DEFINED.</heading>
@@ -752,7 +749,6 @@
     <prefix>Chapter</prefix>
     <num>7.17</num>
     <heading>ABANDONED VEHICLES</heading>
-    <annotations/>
     <section>
       <num>7.17.010</num>
       <heading>SHORT TITLE.</heading>
@@ -1038,7 +1034,6 @@
     <prefix>Chapter</prefix>
     <num>7.18</num>
     <heading>SALE OF DRUG PARAPHERNALIA TO MINORS</heading>
-    <annotations/>
     <section>
       <num>7.18.010</num>
       <heading>PURPOSE.</heading>
@@ -1095,7 +1090,6 @@
     <prefix>Chapter</prefix>
     <num>7.20</num>
     <heading>WEEDS—RUBBISH—RANK GROWTH—INTERFERENCE WITH THE PUBLIC RIGHT-OF-WAY</heading>
-    <annotations/>
     <section>
       <num>7.20.010</num>
       <heading>PURPOSE.</heading>
@@ -1253,7 +1247,6 @@
     <prefix>Chapter</prefix>
     <num>7.22</num>
     <heading>UNRULY GATHERINGS</heading>
-    <annotations/>
     <section>
       <num>7.22.010</num>
       <heading>PURPOSE.</heading>
@@ -1474,7 +1467,6 @@
     <prefix>Chapter</prefix>
     <num>7.28</num>
     <heading>WATER WELLS</heading>
-    <annotations/>
     <section>
       <num>7.28.010</num>
       <heading>CONNECTION WITH WATER DISTRIBUTION SYSTEM OF PUBLIC UTILITY FORBIDDEN.</heading>
@@ -1488,7 +1480,6 @@
     <prefix>Chapter</prefix>
     <num>7.30</num>
     <heading>NOISE REGULATIONS</heading>
-    <annotations/>
     <section>
       <num>7.30.010</num>
       <heading>INTENT AND PURPOSE.</heading>
@@ -1801,7 +1792,7 @@
     <num>7.32</num>
     <heading>GARBAGE</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the authority of cities to contract for the collection and disposal of garbage see <cite doc="Cal. Gov't Code" path="§4250">Cal. Gov. C.A. § 4250</cite>. For the provisions authorizing cities to acquire land within the county that the City is located in, for a dump site, see Cal. Gov. C.C. § 38790. However, if the land acquired is outside the corporate limits of the City the consent of the county board of supervisors must be obtained.</annotation>
+      <annotation type="Editor's Notes">For the statutory provisions regarding the authority of cities to contract for the collection and disposal of garbage see <cite doc="Cal. Gov't Code" path="§4250">Cal. Gov. C.A. § 4250</cite>. For the provisions authorizing cities to acquire land within the county that the City is located in, for a dump site, see Cal. Gov. C.C. § 38790. However, if the land acquired is outside the corporate limits of the City the consent of the county board of supervisors must be obtained.</annotation>
     </annotations>
     <section>
       <num>7.32.010</num>
@@ -2057,7 +2048,6 @@
     <prefix>Chapter</prefix>
     <num>7.33</num>
     <heading>RECYCLING AND SALVAGING OF CONSTRUCTION AND DEMOLITION DEBRIS</heading>
-    <annotations/>
     <section>
       <num>7.33.010</num>
       <heading>TITLE.</heading>
@@ -2292,7 +2282,6 @@
     <prefix>Chapter</prefix>
     <num>7.38</num>
     <heading>SANITARY SEWER USE</heading>
-    <annotations/>
     <section>
       <num>7.38.010</num>
       <heading>TITLE.</heading>
@@ -3623,7 +3612,6 @@
     <prefix>Chapter</prefix>
     <num>7.39</num>
     <heading>STORMWATER MANAGEMENT AND DISCHARGE CONTROL</heading>
-    <annotations/>
     <section>
       <num>7.39.010</num>
       <heading>TITLE.</heading>
@@ -4284,7 +4272,6 @@
     <prefix>Chapter</prefix>
     <num>7.40</num>
     <heading>SMOKING CONTROL</heading>
-    <annotations/>
     <section>
       <num>7.40.010</num>
       <heading>FINDINGS AND PURPOSE.</heading>
@@ -4547,7 +4534,6 @@
     <prefix>Chapter</prefix>
     <num>7.41</num>
     <heading>TOBACCO RETAILER PERMIT</heading>
-    <annotations/>
     <section>
       <num>7.41.010</num>
       <heading>REQUIREMENT FOR A PERMIT.</heading>
@@ -4763,7 +4749,6 @@
     <prefix>Chapter</prefix>
     <num>7.42</num>
     <heading>LIEN AND ASSESSMENTS OF COSTS AND EXPENSES INCURRED IN PUBLIC NUISANCE ABATEMENTS</heading>
-    <annotations/>
     <section>
       <num>7.42.010</num>
       <heading>PURPOSE.</heading>
@@ -4835,7 +4820,6 @@
     <prefix>Chapter</prefix>
     <num>7.44</num>
     <heading>CENTRAL BUSINESS DISTRICT PROPERTY WINDOW AND AWNING MAINTENANCE</heading>
-    <annotations/>
     <section>
       <num>7.44.010</num>
       <heading>PURPOSE.</heading>
@@ -4916,7 +4900,6 @@
     <prefix>Chapter</prefix>
     <num>7.45</num>
     <heading>PROHIBITION OF THE CULTIVATION, PROCESSING, OR SALE OF MARIJUANA</heading>
-    <annotations/>
     <section>
       <num>7.45.010</num>
       <heading>PURPOSE.</heading>
@@ -4966,7 +4949,6 @@
     <prefix>Chapter</prefix>
     <num>7.46</num>
     <heading>MEDICAL MARIJUANA COLLECTIVES REGULATIONS</heading>
-    <annotations/>
     <subheading>ARTICLE 1 GENERAL PROVISIONS</subheading>
     <section>
       <num>7.46.010</num>
@@ -5264,7 +5246,6 @@
     <prefix>Chapter</prefix>
     <num>7.48</num>
     <heading>VACANT LOT MAINTENANCE</heading>
-    <annotations/>
     <section>
       <num>7.48.010</num>
       <heading>INTENT AND PURPOSE.</heading>
@@ -5408,14 +5389,13 @@
     <prefix>Chapter</prefix>
     <num>7.50</num>
     <heading>Property Owner Obligations with Respect to Tenants Displaced from Unsafe or Substandard Units.</heading>
-    <annotations>
-      <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
-    </annotations>
+    <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
     <section>
       <num>7.50.010</num>
       <heading>Title.</heading>
       <text><cite path="7.50">This Chapter</cite> shall be known as Property Owner Obligations with Respect to Tenants Displaced from Unsafe or Substandard Units.</text>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5472,6 +5452,7 @@
         <text>"Tenant household" means one or more individuals who rent or lease a dwelling or room as their primary residence and who share living expenses.</text>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5527,6 +5508,7 @@
         <text>Any provision of a lease or rental agreement for a dwelling or room in which the tenant household agrees to modify or waive any of its rights under <cite path="7.50">this chapter</cite>, including its rights to relocation payments, shall be void as contrary to public policy.</text>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5542,6 +5524,7 @@
         <text>Failure by the City to supply or attempt to supply any of the information or notices provided for in <cite path="7.50">this chapter</cite> shall not affect the validity of any code enforcement notice, order, or action, nor shall any such failure impact any property owner's obligation to abate any noncomplying conditions or provide relocation assistance as required under <cite path="7.50">this chapter</cite>.</text>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5550,6 +5533,7 @@
       <heading>Property owners' notices to tenants.</heading>
       <text>Any notice from a property owner to an eligible tenant household to vacate or quit a dwelling or room following the issuance by City of a notice to vacate, notice to abate a life threatening condition, or declaration of substandard condition must set forth the reasons for the need to vacate, the tenant household's entitlement to relocation payments from the property owner, the tenant household's right to re-occupancy following completion of repairs (if the property is one to be repaired), and the estimated date for re-occupancy. The property owner shall send a copy of all notices to theDirector.</text>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5585,6 +5569,7 @@
         <text>Notwithstanding other provisions of <cite path="7.50">this chapter</cite>, a tenant household shall not be required to vacate the dwelling or room until the required relocation payment has been made and any appeal requested by the property owner has been concluded, unless (1) the Enforcement Officer has determined for health and safety reasons that vacation must occur sooner; or (2) the property owner has complied with the provisions of <cite doc="Cal. Gov't Code">California Government Code section 7060</cite>, et seq., to withdraw such dwelling or room from rental or lease. However, a property owner remains liable for payment of relocation payments to eligible tenant households under <cite path="7.50">this chapter</cite> notwithstanding the applicability of the exceptions above in clauses (1) and (2).</text>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5600,6 +5585,7 @@
         <text>When the City makes any relocation payments that are the responsibility of the property owner under <cite path="7.50">this chapter</cite>, the City shall bill the property owner for the amount of payment, plus any administrative and other direct and/or indirect costs that it would not have incurred but for the failure of the owner to make the required payment. The City Manager, in consultation with the City Attorney, shall have the discretion to reduce the amount of any required reimbursement from a property owner to the City in cases where the factual and legal circumstances warrant such a reduction. The property owner shall reimburse the City within five (5) days of receipt of billing from the City. If the property owner does not make full and timely payment to the City, the City is entitled to recover an additional amount equal to the sum of one-half the amount paid by the City on the property owner's behalf, but not to exceed ten thousand dollars ($10,000.00), as a penalty for failure to make timely payment. The City may also record a lien on the subject property with the County of San Mateo Recorder and shall provide notice of such lien to the property owner and to the County of San Mateo Assessor. The form of such lien and the manner of enforcement and collection shall be as authorized by state or local law. Alternatively, the City may include the unreimbursed amount in any other lien placed on the property by the City to secure payment of enforcement costs. Notwithstanding the above, the intent of <cite path="7.50">this chapter</cite> is to place primary responsibility for making relocation payments to displaced tenant households on those property owners who are responsible for code violations, and nothing in this section is intended to relieve or release any such property owner from this responsibility.</text>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5623,6 +5609,7 @@
         <text>This return right is in addition to an eligible tenant household's entitlement to monetary relocation payments from the property owner under the terms of this <cite path="7.50">chapter 7.50</cite>, and the exercise of this option by a tenant shall not affect the household's eligibility for such payments.</text>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5666,6 +5653,7 @@
         <text>Payments for relocation shall not be considered by the City as income or assets for any government benefits program.</text>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5721,6 +5709,7 @@
         </para>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5760,6 +5749,7 @@
         <text>This section does not enlarge or diminish a landlord's right to terminate a tenancy pursuant to existing state or local law; nor does this section enlarge or diminish any ability of local government to regulate or enforce a prohibition against a landlord's harassment of a tenant.</text>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5775,6 +5765,7 @@
         <text>Nothing herein shall be deemed to interfere with the right of a property owner to file an action against a tenant or non-tenant third party for the damage done to said owner's property. Nothing herein is intended to limit the damages recoverable by any party through a private action.</text>
       </para>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>
@@ -5783,6 +5774,7 @@
       <heading>Severability.</heading>
       <text>In the event any section, clause or provision of <cite path="7.50">this chapter</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
       <annotations>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
       </annotations>
     </section>

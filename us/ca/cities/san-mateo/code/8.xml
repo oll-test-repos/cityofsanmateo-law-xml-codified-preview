@@ -4,13 +4,12 @@
   <num>8</num>
   <heading>ANIMALS AND FOWL</heading>
   <annotations>
-    <annotation type="Editor's Notes" dest="container">For statutory provisions regarding the regulation and licensing of dogs see Agric. § 30501. For the provisions regarding rabies control see Health &amp; Saf. Code § 1900 et seq.</annotation>
+    <annotation type="Editor's Notes">For statutory provisions regarding the regulation and licensing of dogs see Agric. § 30501. For the provisions regarding rabies control see Health &amp; Saf. Code § 1900 et seq.</annotation>
   </annotations>
   <container>
     <prefix>Chapter</prefix>
     <num>8.02</num>
     <heading>ANIMAL CONTROL</heading>
-    <annotations/>
     <section>
       <num>8.02.002</num>
       <heading>ADOPTION OF SAN MATEO COUNTY'S "ANIMAL CONTROL" ORDINANCE.</heading>
@@ -1302,7 +1301,6 @@
     <prefix>Chapter</prefix>
     <num>8.04</num>
     <heading>ANIMAL CARE AND KEEPING</heading>
-    <annotations/>
     <section>
       <num>8.04.010</num>
       <heading>ABUSE—NEGLECT.</heading>
@@ -1346,7 +1344,6 @@
     <prefix>Chapter</prefix>
     <num>8.24</num>
     <heading>STABLES—BARNS</heading>
-    <annotations/>
     <section>
       <num>8.24.010</num>
       <heading>PERMIT—REQUIRED—CONTENTS.</heading>
@@ -1391,7 +1388,7 @@
     <num>8.28</num>
     <heading>BEES</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">Prior history: Prior code §§ 64.60-64.62 and Ord. 1982-1.</annotation>
+      <annotation type="Editor's Notes">Prior history: Prior code §§ 64.60-64.62 and Ord. 1982-1.</annotation>
     </annotations>
     <section>
       <num>8.28.010</num>
@@ -1421,7 +1418,6 @@
     <prefix>Chapter</prefix>
     <num>8.32</num>
     <heading>FOWL AND SMALL ANIMALS</heading>
-    <annotations/>
     <section>
       <num>8.32.010</num>
       <heading>PERMIT—REQUIRED.</heading>

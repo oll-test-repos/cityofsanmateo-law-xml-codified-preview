@@ -3,12 +3,10 @@
   <prefix>Title</prefix>
   <num>24</num>
   <heading>TRANSPORTATION SYSTEM MANAGEMENT (TSM)</heading>
-  <annotations/>
   <container>
     <prefix>Chapter</prefix>
     <num>24.01</num>
     <heading>TRANSPORTATION SYSTEM MANAGEMENT</heading>
-    <annotations/>
     <section>
       <num>24.01.010</num>
       <heading>FINDINGS.</heading>
@@ -256,7 +254,6 @@
     <prefix>Chapter</prefix>
     <num>24.03</num>
     <heading>COUNTY TRANSPORTATION SYSTEM MANAGEMENT</heading>
-    <annotations/>
     <section>
       <num>24.03.010</num>
       <heading>COUNTY TRANSPORTATION SYSTEM MANAGEMENT—TSM—ADOPTION AUTHORIZED.</heading>

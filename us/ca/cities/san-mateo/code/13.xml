@@ -3,13 +3,12 @@
   <prefix>Title</prefix>
   <num>13</num>
   <heading>PARKS AND RECREATION</heading>
-  <annotations/>
   <container>
     <prefix>Chapter</prefix>
     <num>13.01</num>
     <heading>DEFINITIONS</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">For provisions relating to the park and recreation commission, see <cite path="2.27">Chapter 2.27</cite>. For provisions relating to the department of parks and recreation, see <cite path="2.45">Chapter 2.45</cite>.</annotation>
+      <annotation type="Editor's Notes">For provisions relating to the park and recreation commission, see <cite path="2.27">Chapter 2.27</cite>. For provisions relating to the department of parks and recreation, see <cite path="2.45">Chapter 2.45</cite>.</annotation>
     </annotations>
     <section>
       <num>13.01.001</num>
@@ -129,7 +128,6 @@
     <prefix>Chapter</prefix>
     <num>13.05</num>
     <heading>GENERAL PROVISIONS</heading>
-    <annotations/>
     <section>
       <num>13.05.010</num>
       <heading>TRESPASS—GENERALLY.</heading>
@@ -270,7 +268,6 @@
     <prefix>Chapter</prefix>
     <num>13.10</num>
     <heading>PARK PERMITS</heading>
-    <annotations/>
     <section>
       <num>13.10.010</num>
       <heading>SPECIAL EVENTS.</heading>
@@ -406,7 +403,6 @@
     <prefix>Chapter</prefix>
     <num>13.20</num>
     <heading>PARK REGULATIONS</heading>
-    <annotations/>
     <section>
       <num>13.20.010</num>
       <heading>Prohibited Conduct.</heading>
@@ -565,7 +561,6 @@
     <prefix>Chapter</prefix>
     <num>13.25</num>
     <heading>MARINA LAGOON REGULATIONS</heading>
-    <annotations/>
     <section>
       <num>13.25.010</num>
       <heading>LOCAL, STATE AND FEDERAL REGULATIONS—ENFORCEMENT.</heading>
@@ -897,7 +892,6 @@
     <prefix>Chapter</prefix>
     <num>13.28</num>
     <heading>COUNTY PARK REGULATIONS</heading>
-    <annotations/>
     <section>
       <num>13.28.010</num>
       <heading>ADOPTING BY REFERENCE SECTIONS 3.68.010 THROUGH 3.68.160 OF THE SAN MATEO COUNTY CODE.</heading>
@@ -922,7 +916,6 @@
     <prefix>Chapter</prefix>
     <num>13.30</num>
     <heading>DEDICATION OF PARKS AND OPEN SPACE</heading>
-    <annotations/>
     <section>
       <num>13.30.010</num>
       <heading>IMPLEMENTATION OF ARTICLE X OF THE CHARTER.</heading>
@@ -1081,7 +1074,6 @@
     <prefix>Chapter</prefix>
     <num>13.35</num>
     <heading>STREET TREES</heading>
-    <annotations/>
     <section>
       <num>13.35.010</num>
       <heading>INTENT.</heading>
@@ -1387,7 +1379,6 @@
     <prefix>Chapter</prefix>
     <num>13.52</num>
     <heading>HERITAGE TREES</heading>
-    <annotations/>
     <section>
       <num>13.52.010</num>
       <heading>INTENT—PURPOSE.</heading>

@@ -4,13 +4,12 @@
   <num>10</num>
   <heading>PEACE, SAFETY AND MORALS</heading>
   <annotations>
-    <annotation type="Editor's Notes" dest="container">For the City charter provision giving the City all powers necessary and appropriate to a municipal corporation and the general welfare of its inhabitants which are not prohibited by the constitution see Section 1.03.</annotation>
+    <annotation type="Editor's Notes">For the City charter provision giving the City all powers necessary and appropriate to a municipal corporation and the general welfare of its inhabitants which are not prohibited by the constitution see Section 1.03.</annotation>
   </annotations>
   <container>
     <prefix>Chapter</prefix>
     <num>10.04</num>
     <heading>PUBLIC PEACE AND ORDER</heading>
-    <annotations/>
     <section>
       <num>10.04.010</num>
       <heading>DISTURBING THE PEACE.</heading>
@@ -233,7 +232,6 @@
     <prefix>Chapter</prefix>
     <num>10.12</num>
     <heading>MINORS—CURFEW</heading>
-    <annotations/>
     <section>
       <num>10.12.010</num>
       <heading>DEFINITIONS.</heading>
@@ -387,7 +385,7 @@
     <num>10.16</num>
     <heading>FIRE REGULATIONS</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">For provisions relating to the City fire department, see <cite path="2.36">Chapter 2.36</cite>.</annotation>
+      <annotation type="Editor's Notes">For provisions relating to the City fire department, see <cite path="2.36">Chapter 2.36</cite>.</annotation>
     </annotations>
     <section>
       <num>10.16.010</num>
@@ -524,7 +522,6 @@
     <prefix>Chapter</prefix>
     <num>10.26</num>
     <heading>FIREARMS—DISCHARGE</heading>
-    <annotations/>
     <section>
       <num>10.26.010</num>
       <heading>DISCHARGE OF FIREARMS—PROHIBITED.</heading>
@@ -559,7 +556,6 @@
     <prefix>Chapter</prefix>
     <num>10.34</num>
     <heading>CHARITABLE BINGO GAMES—PERMITS</heading>
-    <annotations/>
     <section>
       <num>10.34.010</num>
       <heading>PURPOSE AND INTENT.</heading>
@@ -1024,7 +1020,7 @@
     <num>10.36</num>
     <heading>GAMBLING</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">For the statutory provisions prohibiting gaming see Cal. Pen. C §§ 330-337h.</annotation>
+      <annotation type="Editor's Notes">For the statutory provisions prohibiting gaming see Cal. Pen. C §§ 330-337h.</annotation>
     </annotations>
     <section>
       <num>10.36.010</num>
@@ -1187,7 +1183,6 @@
     <prefix>Chapter</prefix>
     <num>10.38</num>
     <heading>PUBLIC CONVENIENCE AND NECESSITY—ALCOHOL SALES</heading>
-    <annotations/>
     <section>
       <num>10.38.010</num>
       <heading>PURPOSE.</heading>
@@ -1278,7 +1273,6 @@
     <prefix>Chapter</prefix>
     <num>10.40</num>
     <heading>HANDBILLS</heading>
-    <annotations/>
     <section>
       <num>10.40.010</num>
       <heading>DEFINITION.</heading>
@@ -1358,7 +1352,6 @@
     <prefix>Chapter</prefix>
     <num>10.48</num>
     <heading>SOUND TRUCKS—LOUDSPEAKERS—ADVERTISING VEHICLES</heading>
-    <annotations/>
     <section>
       <num>10.48.010</num>
       <heading>DEFINITIONS.</heading>
@@ -1581,7 +1574,6 @@
     <prefix>Chapter</prefix>
     <num>10.56</num>
     <heading>USE OF LIBRARIES AND PUBLIC BUILDINGS</heading>
-    <annotations/>
     <section>
       <num>10.56.010</num>
       <heading>MALICIOUS MISCHIEF.</heading>
@@ -1605,7 +1597,6 @@
     <prefix>Chapter</prefix>
     <num>10.65</num>
     <heading>PROTECTION OF CHILDREN RECEIVING SOCIAL SERVICES</heading>
-    <annotations/>
     <section>
       <num>10.65.010</num>
       <heading>PURPOSE.</heading>
@@ -1719,7 +1710,6 @@
     <prefix>Chapter</prefix>
     <num>10.80</num>
     <heading>OPERATION OF LEAF BLOWERS</heading>
-    <annotations/>
     <section>
       <num>10.80.010</num>
       <heading>PURPOSE.</heading>

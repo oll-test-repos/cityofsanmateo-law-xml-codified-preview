@@ -4,13 +4,12 @@
   <num>3</num>
   <heading>TAXATION AND FINANCE</heading>
   <annotations>
-    <annotation type="Editor's Notes" dest="container">For the taxation provisions of the California Constitution see CAL. CONST. Art. 13 (1879).</annotation>
+    <annotation type="Editor's Notes">For the taxation provisions of the California Constitution see CAL. CONST. Art. 13 (1879).</annotation>
   </annotations>
   <container>
     <prefix>Chapter</prefix>
     <num>3.35</num>
     <heading>CLAIMS FOR TAX REFUNDS</heading>
-    <annotations/>
     <section>
       <num>3.35.010</num>
       <heading>AUTHORITY.</heading>
@@ -72,7 +71,6 @@
     <prefix>Chapter</prefix>
     <num>3.38</num>
     <heading>PROPERTY TAXATION</heading>
-    <annotations/>
     <section>
       <num>3.38.010</num>
       <heading>TRANSFER OF CITY TAX FUNCTION.</heading>
@@ -86,7 +84,6 @@
     <prefix>Chapter</prefix>
     <num>3.44</num>
     <heading>ADMISSIONS TAX—HORSE RACING</heading>
-    <annotations/>
     <section>
       <num>3.44.010</num>
       <heading>DEFINITIONS.</heading>
@@ -303,7 +300,7 @@
     <num>3.48</num>
     <heading>REAL PROPERTY DOCUMENT TRANSFER TAX</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the document transfer tax see West's Cal. Rev. &amp; T.C.A. §§ 11901 et seq.</annotation>
+      <annotation type="Editor's Notes">For the statutory provisions regarding the document transfer tax see West's Cal. Rev. &amp; T.C.A. §§ 11901 et seq.</annotation>
     </annotations>
     <section>
       <num>3.48.010</num>
@@ -439,7 +436,6 @@
     <prefix>Chapter</prefix>
     <num>3.50</num>
     <heading>TRANSACTIONS AND USE TAX</heading>
-    <annotations/>
     <section>
       <num>3.50.010</num>
       <heading>TITLE.</heading>
@@ -711,7 +707,7 @@
     <num>3.52</num>
     <heading>SALES AND USE TAX</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the Uniform Local Sales and Use Tax Act, see Cal. Rev. &amp; T.C.A. &amp; 7200 et seq.</annotation>
+      <annotation type="Editor's Notes">For the statutory provisions regarding the Uniform Local Sales and Use Tax Act, see Cal. Rev. &amp; T.C.A. &amp; 7200 et seq.</annotation>
     </annotations>
     <section>
       <num>3.52.010</num>
@@ -908,9 +904,6 @@
     <prefix>Chapter</prefix>
     <num>3.54</num>
     <heading>SEWER SERVICE CHARGES AND CONNECTION FEES</heading>
-    <annotations>
-      <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
-    </annotations>
     <section>
       <num>3.54.010</num>
       <heading>PURPOSE; ADMINISTRATION.</heading>
@@ -1076,41 +1069,45 @@
         <text>
           <table>
             <caption>Dwelling Unit Equivalents</caption>
-            <tr>
-              <th>Development Type</th>
-              <th>Unit</th>
-              <th>EDUs</th>
-            </tr>
-            <tr>
-              <td>Single-family dwelling</td>
-              <td>Dwelling unit</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Multi-family dwelling, 1 bedroom</td>
-              <td>Dwelling unit</td>
-              <td>0.5</td>
-            </tr>
-            <tr>
-              <td>Multi-family dwelling, 2 bedroom</td>
-              <td>Dwelling unit</td>
-              <td>0.75</td>
-            </tr>
-            <tr>
-              <td>Multi-family dwelling, 3 bedroom</td>
-              <td>Dwelling unit</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Hotels or motels</td>
-              <td>Room</td>
-              <td>0.5</td>
-            </tr>
-            <tr>
-              <td>Nonresidential</td>
-              <td>Fixture unit</td>
-              <td>0.05</td>
-            </tr>
+            <thead>
+              <tr>
+                <th>Development Type</th>
+                <th>Unit</th>
+                <th>EDUs</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Single-family dwelling</td>
+                <td>Dwelling unit</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Multi-family dwelling, 1 bedroom</td>
+                <td>Dwelling unit</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>Multi-family dwelling, 2 bedroom</td>
+                <td>Dwelling unit</td>
+                <td>0.75</td>
+              </tr>
+              <tr>
+                <td>Multi-family dwelling, 3 bedroom</td>
+                <td>Dwelling unit</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Hotels or motels</td>
+                <td>Room</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>Nonresidential</td>
+                <td>Fixture unit</td>
+                <td>0.05</td>
+              </tr>
+            </tbody>
           </table>
         </text>
       </para>
@@ -1121,12 +1118,12 @@
         <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
       </annotations>
     </section>
+    <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>3.56</num>
     <heading>TRANSIENT OCCUPANCY TAX</heading>
-    <annotations/>
     <section>
       <num>3.56.010</num>
       <heading>TITLE.</heading>
@@ -1356,7 +1353,6 @@
     <prefix>Chapter</prefix>
     <num>3.58</num>
     <heading>PARK AND RECREATION LAND AND FACILITIES TAX</heading>
-    <annotations/>
     <section>
       <num>3.58.010</num>
       <heading>TITLE.</heading>
@@ -1463,7 +1459,6 @@
     <prefix>Chapter</prefix>
     <num>3.60</num>
     <heading>PURCHASING</heading>
-    <annotations/>
     <section>
       <num>3.60.010</num>
       <heading>PURPOSE.</heading>
@@ -1699,7 +1694,6 @@
     <prefix>Chapter</prefix>
     <num>3.61</num>
     <heading>PREVAILING WAGES</heading>
-    <annotations/>
     <section>
       <num>3.61.010</num>
       <heading>PAYMENT OF PREVAILING WAGES FOR PUBLIC WORKS PROJECTS.</heading>
@@ -1733,7 +1727,6 @@
     <prefix>Chapter</prefix>
     <num>3.62</num>
     <heading>ACQUISITION—LEASING—DISPOSITION—CITY PROPERTY</heading>
-    <annotations/>
     <section>
       <num>3.62.010</num>
       <heading>PURPOSE.</heading>
@@ -1857,7 +1850,6 @@
     <prefix>Chapter</prefix>
     <num>3.64</num>
     <heading>FEES</heading>
-    <annotations/>
     <section>
       <num>3.64.010</num>
       <heading>FEES.</heading>

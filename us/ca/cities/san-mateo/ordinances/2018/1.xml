@@ -200,8 +200,8 @@
           <heading>SEWER CONNECTION CHARGES.</heading>
           <text>Before making a connection to the sanitary sewer system, a permit shall be obtained from the Building Official. No connection permit shall be issued except upon payment of the applicable sewer connection charge. The sewer connection charge shall be established by resolution of the City Council.</text>
         </section>
-        <codify:remove path="3.54.070" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="3.54"/>
-        <codify:remove path="3.54.071" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="3.54"/>
+        <codify:remove path="3.54.070" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="3.54.010"/>
+        <codify:remove path="3.54.071" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="3.54.010"/>
         <section>
           <codify:replace path="3.54.080" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="3.54.070"/>
           <num>3.54.070</num>
@@ -226,41 +226,45 @@
             <text>
               <table>
                 <caption>Dwelling Unit Equivalents</caption>
-                <tr>
-                  <th>Development Type</th>
-                  <th>Unit</th>
-                  <th>EDUs</th>
-                </tr>
-                <tr>
-                  <td>Single-family dwelling</td>
-                  <td>Dwelling unit</td>
-                  <td>1</td>
-                </tr>
-                <tr>
-                  <td>Multi-family dwelling, 1 bedroom</td>
-                  <td>Dwelling unit</td>
-                  <td>0.5</td>
-                </tr>
-                <tr>
-                  <td>Multi-family dwelling, 2 bedroom</td>
-                  <td>Dwelling unit</td>
-                  <td>0.75</td>
-                </tr>
-                <tr>
-                  <td>Multi-family dwelling, 3 bedroom</td>
-                  <td>Dwelling unit</td>
-                  <td>1</td>
-                </tr>
-                <tr>
-                  <td>Hotels or motels</td>
-                  <td>Room</td>
-                  <td>0.5</td>
-                </tr>
-                <tr>
-                  <td>Nonresidential</td>
-                  <td>Fixture unit</td>
-                  <td>0.05</td>
-                </tr>
+                <thead>
+                  <tr>
+                    <th>Development Type</th>
+                    <th>Unit</th>
+                    <th>EDUs</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Single-family dwelling</td>
+                    <td>Dwelling unit</td>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <td>Multi-family dwelling, 1 bedroom</td>
+                    <td>Dwelling unit</td>
+                    <td>0.5</td>
+                  </tr>
+                  <tr>
+                    <td>Multi-family dwelling, 2 bedroom</td>
+                    <td>Dwelling unit</td>
+                    <td>0.75</td>
+                  </tr>
+                  <tr>
+                    <td>Multi-family dwelling, 3 bedroom</td>
+                    <td>Dwelling unit</td>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <td>Hotels or motels</td>
+                    <td>Room</td>
+                    <td>0.5</td>
+                  </tr>
+                  <tr>
+                    <td>Nonresidential</td>
+                    <td>Fixture unit</td>
+                    <td>0.05</td>
+                  </tr>
+                </tbody>
               </table>
             </text>
           </para>

@@ -3,12 +3,10 @@
   <prefix>Title</prefix>
   <num>23</num>
   <heading>BUILDINGS AND CONSTRUCTION</heading>
-  <annotations/>
   <container>
     <prefix>Chapter</prefix>
     <num>23.04</num>
     <heading>NUMBERING BUILDINGS</heading>
-    <annotations/>
     <section>
       <num>23.04.010</num>
       <heading>DEFINITIONS.</heading>
@@ -124,7 +122,6 @@
     <prefix>Chapter</prefix>
     <num>23.06</num>
     <heading>ADMINISTRATIVE CODE</heading>
-    <annotations/>
     <section>
       <num>23.06.010</num>
       <heading>Adoption</heading>
@@ -611,7 +608,6 @@
     <prefix>Chapter</prefix>
     <num>23.07</num>
     <heading>RESIDENTIAL CODE</heading>
-    <annotations/>
     <section>
       <num>23.07.010</num>
       <heading>Adoption</heading>
@@ -744,7 +740,6 @@
     <prefix>Chapter</prefix>
     <num>23.08</num>
     <heading>BUILDING CODE</heading>
-    <annotations/>
     <section>
       <num>23.08.010</num>
       <heading>Adoption</heading>
@@ -1008,7 +1003,6 @@
     <prefix>Chapter</prefix>
     <num>23.09</num>
     <heading>EXISTING BUILDING CODE</heading>
-    <annotations/>
     <section>
       <num>23.09.010</num>
       <heading>Adoption</heading>
@@ -1035,10 +1029,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>23.10</num>
+    <reason>Repealed</reason>
     <heading>EARTHQUAKE HAZARD REDUCTION CODE</heading>
-    <annotations>
-      <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§5" type="History"/>
-    </annotations>
     <section>
       <reason>Repealed</reason>
       <num>23.10.010</num>
@@ -1094,12 +1086,12 @@
         <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§5" type="History"/>
       </annotations>
     </section>
+    <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§5" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>23.12</num>
     <heading>ELECTRICAL CODE</heading>
-    <annotations/>
     <section>
       <num>23.12.010</num>
       <heading>Adoption</heading>
@@ -1137,7 +1129,6 @@
     <prefix>Chapter</prefix>
     <num>23.16</num>
     <heading>PLUMBING CODE</heading>
-    <annotations/>
     <section>
       <num>23.16.010</num>
       <heading>Adoption</heading>
@@ -1195,7 +1186,6 @@
     <prefix>Chapter</prefix>
     <num>23.20</num>
     <heading>MECHANICAL CODE</heading>
-    <annotations/>
     <section>
       <num>23.20.010</num>
       <heading>Adoption</heading>
@@ -1234,7 +1224,6 @@
     <prefix>Chapter</prefix>
     <num>23.24</num>
     <heading>ENERGY CODE</heading>
-    <annotations/>
     <section>
       <num>23.24.010</num>
       <heading>Adoption</heading>
@@ -1463,7 +1452,6 @@
     <prefix>Chapter</prefix>
     <num>23.28</num>
     <heading>FIRE CODE</heading>
-    <annotations/>
     <section>
       <num>23.28.010</num>
       <heading>Adoption</heading>
@@ -1740,10 +1728,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>23.32</num>
+    <reason>Repealed</reason>
     <heading>FIRE PROTECTION FACILITIES CODE</heading>
-    <annotations>
-      <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§10" type="History"/>
-    </annotations>
     <section>
       <reason>Repealed</reason>
       <num>23.32.010</num>
@@ -1862,12 +1848,12 @@
         <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§10" type="History"/>
       </annotations>
     </section>
+    <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§10" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>23.33</num>
     <heading>FLOODPLAIN MANAGEMENT</heading>
-    <annotations/>
     <section>
       <num>23.33.010</num>
       <heading>PURPOSE AND METHODS.</heading>
@@ -2906,9 +2892,7 @@
     <prefix>Chapter</prefix>
     <num>23.36</num>
     <heading>Historical Building Code</heading>
-    <annotations>
-      <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§11|(a)" type="History"/>
-    </annotations>
+    <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§11|(a)" type="History"/>
     <section>
       <num>23.36.010</num>
       <heading>Adoption</heading>
@@ -2933,9 +2917,7 @@
     <prefix>Chapter</prefix>
     <num>23.38</num>
     <heading>Referenced Standards Code</heading>
-    <annotations>
-      <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§12|(a)" type="History"/>
-    </annotations>
+    <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§12|(a)" type="History"/>
     <section>
       <num>23.38.010</num>
       <heading>Adoption</heading>
@@ -2960,7 +2942,6 @@
     <prefix>Chapter</prefix>
     <num>23.40</num>
     <heading>SITE DEVELOPMENT CODE</heading>
-    <annotations/>
     <section>
       <num>23.40.010</num>
       <heading>GENERAL PROVISIONS.</heading>
@@ -3659,7 +3640,6 @@
     <prefix>Chapter</prefix>
     <num>23.44</num>
     <heading>ELECTRIC VEHICLE CHARGING STATIONS</heading>
-    <annotations/>
     <section>
       <num>23.44.020</num>
       <heading>DEFINITIONS.</heading>
@@ -3753,7 +3733,6 @@
     <prefix>Chapter</prefix>
     <num>23.46</num>
     <heading>SMALL RESIDENTIAL ROOFTOP SOLAR ENERGY SYSTEMS</heading>
-    <annotations/>
     <section>
       <num>23.46.010</num>
       <heading>PURPOSE AND INTENT.</heading>
@@ -3994,7 +3973,6 @@
     <prefix>Chapter</prefix>
     <num>23.48</num>
     <heading>SPECIFICATIONS FOR PUBLIC WORKS CONSTRUCTION</heading>
-    <annotations/>
     <section>
       <num>23.48.010</num>
       <heading>ADOPTION.</heading>
@@ -4032,7 +4010,6 @@
     <prefix>Chapter</prefix>
     <num>23.50</num>
     <heading>HANDICAPPED ACCESS</heading>
-    <annotations/>
     <section>
       <num>23.50.010</num>
       <heading>HANDICAPPED ACCESS.</heading>
@@ -4046,7 +4023,6 @@
     <prefix>Chapter</prefix>
     <num>23.54</num>
     <heading>BUILDING SECURITY CODE</heading>
-    <annotations/>
     <section>
       <num>23.54.005</num>
       <heading>PURPOSE AND INTENT.</heading>
@@ -4792,7 +4768,6 @@
     <prefix>Chapter</prefix>
     <num>23.56</num>
     <heading>MOVING BUILDING CODE</heading>
-    <annotations/>
     <section>
       <num>23.56.010</num>
       <heading>BOND.</heading>
@@ -4854,7 +4829,6 @@
     <prefix>Chapter</prefix>
     <num>23.58</num>
     <heading>VISIBILITY IN BARS</heading>
-    <annotations/>
     <section>
       <num>23.58.010</num>
       <heading>PURPOSE.</heading>
@@ -4923,7 +4897,6 @@
     <prefix>Chapter</prefix>
     <num>23.60</num>
     <heading>ART IN PUBLIC PLACES</heading>
-    <annotations/>
     <section>
       <num>23.60.010</num>
       <heading>PURPOSE.</heading>
@@ -5191,7 +5164,6 @@
     <prefix>Chapter</prefix>
     <num>23.61</num>
     <heading>AFFORDABLE HOUSING COMMERCIAL LINKAGE FEE</heading>
-    <annotations/>
     <section>
       <num>23.61.010</num>
       <heading>PURPOSE.</heading>
@@ -5476,8 +5448,7 @@
     <num>23.70</num>
     <heading>GREEN BUILDING CODE</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">Prior ordinance history: Ord. 2009-14.</annotation>
-      <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
+      <annotation type="Editor's Notes">Prior ordinance history: Ord. 2009-14.</annotation>
     </annotations>
     <section>
       <num>23.70.010</num>
@@ -5582,6 +5553,7 @@
         <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
+    <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
     <section>
       <num>23.70.060</num>
       <heading>Local Amendment Regarding Electric Vehicle Space Design Requirements</heading>
@@ -5623,7 +5595,6 @@
     <prefix>Chapter</prefix>
     <num>23.72</num>
     <heading>WATER CONSERVATION IN LANDSCAPING</heading>
-    <annotations/>
     <section>
       <num>23.72.010</num>
       <heading>APPLICABILITY.</heading>

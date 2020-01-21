@@ -3,12 +3,10 @@
   <prefix>Title</prefix>
   <num>25</num>
   <heading>SIGNS</heading>
-  <annotations/>
   <container>
     <prefix>Chapter</prefix>
     <num>25.02</num>
     <heading>GENERAL PROVISIONS</heading>
-    <annotations/>
     <section>
       <num>25.02.010</num>
       <heading>PURPOSE.</heading>
@@ -315,7 +313,6 @@
     <prefix>Chapter</prefix>
     <num>25.04</num>
     <heading>SIGNS ON PUBLIC PROPERTY</heading>
-    <annotations/>
     <section>
       <num>25.04.010</num>
       <heading>FINDINGS.</heading>
@@ -465,7 +462,6 @@
     <prefix>Chapter</prefix>
     <num>25.06</num>
     <heading>SIGNS ON PRIVATE PROPERTY</heading>
-    <annotations/>
     <section>
       <num>25.06.010</num>
       <heading>PERMIT REQUIRED.</heading>
@@ -1252,7 +1248,6 @@ Frontage Area</caption>
     <prefix>Chapter</prefix>
     <num>25.08</num>
     <heading>PROHIBITED, ILLEGAL AND NON-CONFORMING SIGNS</heading>
-    <annotations/>
     <section>
       <num>25.08.010</num>
       <heading>PROHIBITED SIGNS ON BOTH PUBLIC AND PRIVATE PROPERTY.</heading>

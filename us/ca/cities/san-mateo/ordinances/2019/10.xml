@@ -115,7 +115,7 @@
             </include>
           </para>
         </section>
-        <codify:remove path="23.70.050" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="23.70"/>
+        <codify:remove path="23.70.050" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="23.70.010"/>
         <codify:replace path="23.70.040|num" codified:doc="City of San Mateo, Cal., Code" codified:path="23.70.050">
           <num>23.70.050</num>
         </codify:replace>

@@ -4,15 +4,15 @@
   <num>17</num>
   <heading>STREETS AND SIDEWALKS</heading>
   <annotations>
-    <annotation type="Editor's Notes" dest="container">For the provision of the City Charter which authorizes the City to make public improvements including the improving, widening or opening of streets or highways under and in pursuance of State law or procedure ordinances adopted by the Council or electors see Section 5.25. For the statutory provisions regarding the construction, improvement and repair of streets and sidewalks by cities see Cal. Gov. C. § 40401.</annotation>
+    <annotation type="Editor's Notes">For the provision of the City Charter which authorizes the City to make public improvements including the improving, widening or opening of streets or highways under and in pursuance of State law or procedure ordinances adopted by the Council or electors see Section 5.25. For the statutory provisions regarding the construction, improvement and repair of streets and sidewalks by cities see Cal. Gov. C. § 40401.</annotation>
   </annotations>
   <container>
     <prefix>Chapter</prefix>
     <num>17.08</num>
     <heading>OBSTRUCTIONS—LITTER</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">For provisions relating to street standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite> of this code.</annotation>
-      <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov't Code" path="§38775">Gov. Code § 38775</cite>. For provisions relating to liability for injury, see <cite path="15.20">Chapter 15.20</cite>.</annotation>
+      <annotation type="Editor's Notes">For provisions relating to street standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite> of this code.</annotation>
+      <annotation type="Editor's Notes">For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov't Code" path="§38775">Gov. Code § 38775</cite>. For provisions relating to liability for injury, see <cite path="15.20">Chapter 15.20</cite>.</annotation>
     </annotations>
     <section>
       <num>17.08.010</num>
@@ -287,9 +287,7 @@
     <prefix>Chapter</prefix>
     <num>17.10</num>
     <heading>WIRELESS COMMUNICATIONS FACILITIES IN THE PUBLIC RIGHT-OF-WAY</heading>
-    <annotations>
-      <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-    </annotations>
+    <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
     <section>
       <num>17.10.010</num>
       <heading>PURPOSE AND INTENT.</heading>
@@ -1049,7 +1047,6 @@
     <prefix>Chapter</prefix>
     <num>17.12</num>
     <heading>NEWSRACKS IN THE PUBLIC RIGHT-OF-WAY</heading>
-    <annotations/>
     <section>
       <num>17.12.010</num>
       <heading>FINDINGS.</heading>
@@ -1597,7 +1594,6 @@
     <prefix>Chapter</prefix>
     <num>17.16</num>
     <heading>DRIVEWAYS</heading>
-    <annotations/>
     <section>
       <num>17.16.010</num>
       <heading>CONFORMANCE WITH CHAPTER REQUIRED.</heading>
@@ -1650,7 +1646,7 @@
     <num>17.20</num>
     <heading>STREET SIGNS</heading>
     <annotations>
-      <annotation type="Editor's Notes" dest="container">For provisions relating to street sign standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite>.</annotation>
+      <annotation type="Editor's Notes">For provisions relating to street sign standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite>.</annotation>
     </annotations>
     <section>
       <num>17.20.010</num>
@@ -1665,7 +1661,6 @@
     <prefix>Chapter</prefix>
     <num>17.24</num>
     <heading>SIDEWALK MAINTENANCE</heading>
-    <annotations/>
     <section>
       <num>17.24.010</num>
       <heading>INTENT.</heading>
@@ -1808,7 +1803,6 @@
     <prefix>Chapter</prefix>
     <num>17.29</num>
     <heading>SHOPPING CART REMOVAL, IMPOUNDMENT, DISPOSAL</heading>
-    <annotations/>
     <section>
       <num>17.29.010</num>
       <heading>FINDINGS AND PURPOSE.</heading>
@@ -1980,7 +1974,6 @@
     <prefix>Chapter</prefix>
     <num>17.30</num>
     <heading>VALET PARKING</heading>
-    <annotations/>
     <section>
       <num>17.30.005</num>
       <heading>DEFINITIONS.</heading>
@@ -2267,7 +2260,6 @@
     <prefix>Chapter</prefix>
     <num>17.32</num>
     <heading>TRENCH CUTS</heading>
-    <annotations/>
     <section>
       <num>17.32.010</num>
       <heading>RESTRICTION ON EXCAVATIONS.</heading>
@@ -2328,7 +2320,6 @@
     <prefix>Chapter</prefix>
     <num>17.34</num>
     <heading>SPECIAL EVENTS</heading>
-    <annotations/>
     <section>
       <num>17.34.010</num>
       <heading>TITLE.</heading>

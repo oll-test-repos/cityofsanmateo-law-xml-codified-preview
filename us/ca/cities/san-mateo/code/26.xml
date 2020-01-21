@@ -4,13 +4,12 @@
   <num>26</num>
   <heading>SUBDIVISIONS</heading>
   <annotations>
-    <annotation type="Editor's Notes" dest="container">For the statutory provisions pertaining to subdivided lands and subdivisions see Cal. Gov't. Code §§ 66410 et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions pertaining to subdivided lands and subdivisions see Cal. Gov't. Code §§ 66410 et seq.</annotation>
   </annotations>
   <container>
     <prefix>Chapter</prefix>
     <num>26.04</num>
     <heading>GENERAL PROVISIONS</heading>
-    <annotations/>
     <section>
       <num>26.04.010</num>
       <heading>TITLE.</heading>
@@ -221,7 +220,6 @@
     <prefix>Chapter</prefix>
     <num>26.08</num>
     <heading>DEFINITIONS</heading>
-    <annotations/>
     <section>
       <num>26.08.010</num>
       <heading>DEFINITIONS GENERALLY.</heading>
@@ -309,7 +307,6 @@
     <prefix>Chapter</prefix>
     <num>26.12</num>
     <heading>PROCEDURE</heading>
-    <annotations/>
     <section>
       <num>26.12.010</num>
       <heading>COMPLIANCE REQUIRED.</heading>
@@ -400,7 +397,6 @@
     <prefix>Chapter</prefix>
     <num>26.16</num>
     <heading>MISCELLANEOUS DESIGN STANDARDS</heading>
-    <annotations/>
     <section>
       <num>26.16.010</num>
       <heading>SEWAGE DISPOSAL.</heading>
@@ -504,7 +500,6 @@
     <prefix>Chapter</prefix>
     <num>26.20</num>
     <heading>LOTS</heading>
-    <annotations/>
     <section>
       <num>26.20.010</num>
       <heading>SUITABILITY FOR PURPOSE.</heading>
@@ -640,7 +635,6 @@
     <prefix>Chapter</prefix>
     <num>26.24</num>
     <heading>BLOCKS</heading>
-    <annotations/>
     <section>
       <num>26.24.010</num>
       <heading>DEPTH.</heading>
@@ -673,7 +667,6 @@
     <prefix>Chapter</prefix>
     <num>26.28</num>
     <heading>STREETS</heading>
-    <annotations/>
     <section>
       <num>26.28.010</num>
       <heading>RIGHTS-OF-WAY—PAVEMENT WIDTHS.</heading>
@@ -834,7 +827,6 @@
     <prefix>Chapter</prefix>
     <num>26.32</num>
     <heading>PUBLIC UTILITIES</heading>
-    <annotations/>
     <section>
       <num>26.32.010</num>
       <heading>EASEMENTS.</heading>
@@ -876,7 +868,6 @@
     <prefix>Chapter</prefix>
     <num>26.36</num>
     <heading>DRAINAGE</heading>
-    <annotations/>
     <section>
       <num>26.36.010</num>
       <heading>GENERAL REQUIREMENTS.</heading>
@@ -911,7 +902,6 @@
     <prefix>Chapter</prefix>
     <num>26.40</num>
     <heading>FEES—DEPOSITS</heading>
-    <annotations/>
     <section>
       <num>26.40.010</num>
       <heading>FILING FEES.</heading>
@@ -949,7 +939,6 @@
     <prefix>Chapter</prefix>
     <num>26.48</num>
     <heading>TENTATIVE MAP</heading>
-    <annotations/>
     <section>
       <num>26.48.010</num>
       <heading>PREPARATION.</heading>
@@ -1300,7 +1289,6 @@
     <prefix>Chapter</prefix>
     <num>26.52</num>
     <heading>FINAL MAP</heading>
-    <annotations/>
     <section>
       <num>26.52.010</num>
       <heading>PREPARATION.</heading>
@@ -1668,7 +1656,6 @@
     <prefix>Chapter</prefix>
     <num>26.56</num>
     <heading>PARCEL MAPS</heading>
-    <annotations/>
     <subheading>ARTICLE I TENTATIVE PARCEL MAP</subheading>
     <section>
       <num>26.56.010</num>
@@ -2017,7 +2004,6 @@
     <prefix>Chapter</prefix>
     <num>26.57</num>
     <heading>MERGERS</heading>
-    <annotations/>
     <section>
       <num>26.57.010</num>
       <heading>PROCEDURE</heading>
@@ -2059,7 +2045,6 @@
     <prefix>Chapter</prefix>
     <num>26.58</num>
     <heading>LOT LINE ADJUSTMENTS</heading>
-    <annotations/>
     <section>
       <num>26.58.010</num>
       <heading>PROCEDURE</heading>
@@ -2161,7 +2146,6 @@
     <prefix>Chapter</prefix>
     <num>26.60</num>
     <heading>IMPROVEMENTS</heading>
-    <annotations/>
     <section>
       <num>26.60.010</num>
       <heading>GENERAL REQUIREMENTS.</heading>
@@ -2270,7 +2254,6 @@
     <prefix>Chapter</prefix>
     <num>26.64</num>
     <heading>DEDICATION OF LAND FOR COMMUNITY PURPOSES</heading>
-    <annotations/>
     <section>
       <num>26.64.010</num>
       <heading>STANDARDS.</heading>
@@ -2434,7 +2417,6 @@
     <prefix>Chapter</prefix>
     <num>26.65</num>
     <heading>CONVERSIONS TO CONDOMINIUMS, STOCK COOPERATIVES AND COMMUNITY APARTMENTS</heading>
-    <annotations/>
     <section>
       <num>26.65.010</num>
       <heading>PURPOSE.</heading>
@@ -2818,7 +2800,6 @@
     <prefix>Chapter</prefix>
     <num>26.68</num>
     <heading>EXCEPTIONS</heading>
-    <annotations/>
     <section>
       <num>26.68.010</num>
       <heading>APPLICATION.</heading>
@@ -2875,7 +2856,6 @@
     <prefix>Chapter</prefix>
     <num>26.72</num>
     <heading>APPEALS</heading>
-    <annotations/>
     <section>
       <num>26.72.010</num>
       <heading>ACTION OF ADMINISTRATIVE OFFICIALS.</heading>
