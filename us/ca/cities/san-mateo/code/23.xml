@@ -1300,20 +1300,24 @@
             <text>
               <table>
                 <caption>Table 140.1-A Mixed-fuel Building Energy Budgets Adjustments</caption>
-                <tr>
-                  <th>Occupancy Type</th>
-                  <th>Compliance Margin Exceeding State Code</th>
-                </tr>
-                <tr>
-                  <td>Office</td>
-                  <td>10%</td>
-                </tr>
-                <tr>
-                  <td>All Other occupancies</td>
-                  <td>
-                    <u>0%</u>
-                  </td>
-                </tr>
+                <thead>
+                  <tr>
+                    <th>Occupancy Type</th>
+                    <th>Compliance Margin Exceeding State Code</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Office</td>
+                    <td>10%</td>
+                  </tr>
+                  <tr>
+                    <td>All Other occupancies</td>
+                    <td>
+                      <u>0%</u>
+                    </td>
+                  </tr>
+                </tbody>
               </table>
             </text>
           </include>
