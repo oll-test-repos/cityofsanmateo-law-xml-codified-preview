@@ -1274,8 +1274,8 @@
             <num>3.</num>
             <text>New non-residential buildings greater than or equal to 10,000 square feet of gross floor area shall provide a minimum of a 5-kilowatt photovoltaic system.</text>
           </para>
+          <aftertext><strong>Exception to Section A</strong>: As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</aftertext>
         </para>
-        <text><strong>Exception to Section A</strong>: As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</text>
       </include>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-5" path="§1" type="History"/>
@@ -1387,48 +1387,48 @@
             <text>The Energy Efficiency Design Rating calculated for the Proposed Design Building shall be at least 2.5 EDR points less than the Energy Efficiency Design Rating calculated for the Standard Design Building.</text>
           </include>
         </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Prescriptive Approach: Section 150.1.c. "Prescriptive standards/component packages" is amended to include the following prescriptive standards for mixed-fuel single-family and duplex buildings:</text>
-        <include>
-          <para>
-            <num>(A)</num>
-            <text>Duct System Sealing and Leakage Testing.  The duct systems shall exceed the minimum mandatory requirements of Section 150.0(m)11 A and B such that the total duct system leakage shall not exceed 2 percent of the nominal system air handler air flow.</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>Slab floor perimeter insulation shall be installed with an R-value equal to or greater than R10. The minimum depth of concrete-slab floor perimeter insulation shall be 16 inches or the depth of the footing of the building, whichever is less.</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>The hot water distribution system shall be designed and installed to meet minimum requirements for the basic compact hot water distribution credit according to the procedures outlined in the 2019 Reference Appendices RA4.4.6.</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>Central Fan Integrated Ventilation Systems. The duct distribution system shall be designed reduce external static pressure to meet a maximum fan efficacy equal to:</text>
+        <para>
+          <num>(2)</num>
+          <text>Prescriptive Approach: Section 150.1.c. "Prescriptive standards/component packages" is amended to include the following prescriptive standards for mixed-fuel single-family and duplex buildings:</text>
+          <include>
             <para>
-              <num>(i)</num>
-              <text>Gas Furnaces: 0.35 Watts per cfm</text>
+              <num>(A)</num>
+              <text>Duct System Sealing and Leakage Testing.  The duct systems shall exceed the minimum mandatory requirements of Section 150.0(m)11 A and B such that the total duct system leakage shall not exceed 2 percent of the nominal system air handler air flow.</text>
             </para>
             <para>
-              <num>(ii)</num>
-              <text>Heat Pumps: 0.45 Watts per cfm, according to the procedures outlined in the 2019 Reference Appendices RA 3.3.</text>
-            </para>
-          </para>
-          <para>
-            <num>(E)</num>
-            <text>For buildings with either space heating or water heating systems fueled by gas or propane, also include:</text>
-            <para>
-              <num>(i)</num>
-              <text>5 kWh battery of battery storage, OR</text>
+              <num>(B)</num>
+              <text>Slab floor perimeter insulation shall be installed with an R-value equal to or greater than R10. The minimum depth of concrete-slab floor perimeter insulation shall be 16 inches or the depth of the footing of the building, whichever is less.</text>
             </para>
             <para>
-              <num>(ii)</num>
-              <text>A solar water heating system with a minimum solar savings fraction of 0.20.</text>
+              <num>(C)</num>
+              <text>The hot water distribution system shall be designed and installed to meet minimum requirements for the basic compact hot water distribution credit according to the procedures outlined in the 2019 Reference Appendices RA4.4.6.</text>
             </para>
-          </para>
-        </include>
+            <para>
+              <num>(D)</num>
+              <text>Central Fan Integrated Ventilation Systems. The duct distribution system shall be designed reduce external static pressure to meet a maximum fan efficacy equal to:</text>
+              <para>
+                <num>(i)</num>
+                <text>Gas Furnaces: 0.35 Watts per cfm</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Heat Pumps: 0.45 Watts per cfm, according to the procedures outlined in the 2019 Reference Appendices RA 3.3.</text>
+              </para>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>For buildings with either space heating or water heating systems fueled by gas or propane, also include:</text>
+              <para>
+                <num>(i)</num>
+                <text>5 kWh battery of battery storage, OR</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>A solar water heating system with a minimum solar savings fraction of 0.20.</text>
+              </para>
+            </para>
+          </include>
+        </para>
       </para>
       <annotations>
         <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-9" eff="2020-01-01" path="§1" type="History"/>
@@ -5482,12 +5482,12 @@
       <para>
         <num>(b)</num>
         <text>The most commonly used definitions are set forth below:</text>
+        <include>
+          <text><strong>Electric Vehicle (EV). </strong>An automotive-type vehicle for on-road use, such as passenger automobiles, buses, trucks, vans, neighborhood electric vehicles, electric motorcycles, and the like, primarily powered by an electric motor that draws current from a rechargeable storage battery, fuel cell, photovoltaic array, or other source of electric current. Plug-in hybrid electric vehicles (PHEV) are considered electric vehicles.  For purposes of the <em>California Electrical Code</em>, off-road, self-propelled electric vehicles, such as industrial trucks, hoists, lifts, transports, golf carts, airline ground support equipment, tractors, boats, and the like, are not included.</text>
+          <text><strong>Electric Vehicle Charging Space (EV Space)</strong>. A space intended for future installation of EV charging equipment and charging of electric vehicles.</text>
+          <text><strong>Electric vehicle supply equipment (EVSE).</strong> The conductors, including the undergrounded, grounded, and equipment grounding conductors and the electric vehicles connectors, attachment plugs, and all other fittings, devices, power outlets, or apparatus installed specifically for the purpose of transferring energy between premises wiring and the electric vehicle.</text>
+        </include>
       </para>
-      <include>
-        <text><strong>Electric Vehicle (EV). </strong>An automotive-type vehicle for on-road use, such as passenger automobiles, buses, trucks, vans, neighborhood electric vehicles, electric motorcycles, and the like, primarily powered by an electric motor that draws current from a rechargeable storage battery, fuel cell, photovoltaic array, or other source of electric current. Plug-in hybrid electric vehicles (PHEV) are considered electric vehicles.  For purposes of the <em>California Electrical Code</em>, off-road, self-propelled electric vehicles, such as industrial trucks, hoists, lifts, transports, golf carts, airline ground support equipment, tractors, boats, and the like, are not included.</text>
-        <text><strong>Electric Vehicle Charging Space (EV Space)</strong>. A space intended for future installation of EV charging equipment and charging of electric vehicles.</text>
-        <text><strong>Electric vehicle supply equipment (EVSE).</strong> The conductors, including the undergrounded, grounded, and equipment grounding conductors and the electric vehicles connectors, attachment plugs, and all other fittings, devices, power outlets, or apparatus installed specifically for the purpose of transferring energy between premises wiring and the electric vehicle.</text>
-      </include>
       <para>
         <num>(c)</num>
         <text>Chapter 2 "Definitions," Section 202 of the state Green Building Code is amended to include the following definition:</text>
@@ -5748,8 +5748,7 @@
       </para>
       <para>
         <num>(v)</num>
-        <text>"Flow sensor" means an inline device installed at the supply point of the irrigation system that produces a repeatable signal proportional to flow rate. Flow sensors must be connected to an automatic irrigation controller, or flow monitor capable of receiving flow signals and operating master valves. This combination flow sensor/
-controller may also function as a landscape water meter or submeter.</text>
+        <text>"Flow sensor" means an inline device installed at the supply point of the irrigation system that produces a repeatable signal proportional to flow rate. Flow sensors must be connected to an automatic irrigation controller, or flow monitor capable of receiving flow signals and operating master valves. This combination flow sensor/controller may also function as a landscape water meter or submeter.</text>
       </para>
       <para>
         <num>(w)</num>
