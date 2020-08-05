@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" containing-doc="City of San Mateo, Cal., Code">
   <prefix>Title</prefix>
   <num>7</num>
   <heading>HEALTH, SANITATION, AND PUBLIC NUISANCES</heading>
@@ -886,7 +886,7 @@
               <td colspan="3">"NOTICE OF INTENTION TO ABATE AND REMOVE AN ABANDONED, WRECKED, DISMANTLED, OR INOPERATIVE VEHICLE OR PARTS THEREOF AS A PUBLIC NUISANCE.</td>
             </tr>
             <tr>
-              <td colspan="2">To: _______________________________________</td>
+              <td colspan="2">To: ______________________________________</td>
               <td/>
             </tr>
             <tr>
@@ -920,7 +920,7 @@
               <td colspan="3">"NOTICE OF INTENTION TO ABATE AND REMOVE AN ABANDONED, WRECKED, DISMANTLED, OR INOPERATIVE VEHICLE OR PARTS THEREOF AS A PUBLIC NUISANCE.</td>
             </tr>
             <tr>
-              <td>To:_______________________________</td>
+              <td>To:______________________________</td>
               <td/>
               <td>To:______________________________</td>
             </tr>
@@ -930,9 +930,9 @@
               <td>Name of last registered Owner of Record</td>
             </tr>
             <tr>
-              <td>__________________________________</td>
+              <td>_________________________________</td>
               <td/>
-              <td>__________________________________</td>
+              <td>_________________________________</td>
             </tr>
             <tr>
               <td class="text-indent-4">ddress</td>
