@@ -12,12 +12,12 @@
       <static-assets>https://github.com/oll-test-repos/openlawlibrary-law-static-assets</static-assets>
       <html>https://sanmateo.ca.us.open.law</html>
     </canonical-urls>
-    <build xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="34c2349f4241489c49e3bcf5a5e5366e9af9fe8a"/>
+        <repository name="cityofsanmateo/law-xml" commit="c7f2c04609c7b71aa0b6a9509ae829f8a36b7ba5"/>
       </repositories>
-      <platform version="2.0.0.dev10503" reproducible="true"/>
-      <build-date>2020-08-17</build-date>
+      <platform version="2.0.0.dev10690" reproducible="true"/>
+      <build-date>2020-08-28</build-date>
       <codified-date>2020-08-19</codified-date>
     </build>
   </meta>
