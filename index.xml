@@ -16,7 +16,7 @@
       <repositories>
         <repository name="cityofsanmateo/law-xml" commit="4865784e4fab1a235a5dd05308e514ec3231b743"/>
       </repositories>
-      <platform version="2.0.0.dev11088" reproducible="true"/>
+      <platform version="2.0.0.dev11095" reproducible="true"/>
       <build-date>2020-10-05</build-date>
       <codified-date>2020-08-19</codified-date>
     </build>
