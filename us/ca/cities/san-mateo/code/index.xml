@@ -3,8 +3,14 @@
   <heading>City of San Mateo Municipal Code</heading>
   <meta>
     <effective>0001-01-02</effective>
-    <recency through="2021-01-01">
-      <doc id="City of San Mateo, Cal., Ord. No. 2020-17" type="ordinance"/>
+    <print>
+      <volumes>
+        <volume start="1"/>
+        <volume start="17"/>
+      </volumes>
+    </print>
+    <recency through="2021-07-01">
+      <doc id="City of San Mateo, Cal., Ord. No. 2021-13" type="ordinance"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
