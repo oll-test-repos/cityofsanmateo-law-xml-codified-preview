@@ -15,10 +15,10 @@
     <history-start>2018-03-05</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="79718c7b45e3f980bfe73ca0aad38870d53e3399"/>
+        <repository name="cityofsanmateo/law-xml" commit="20786a66ac56bb08aa10a83b4318aa9249244bf7"/>
       </repositories>
       <platform version="2.4.0.dev13900" reproducible="false"/>
-      <build-date>2021-09-17</build-date>
+      <build-date>2021-09-18</build-date>
       <codified-date>2021-10-21</codified-date>
     </build>
   </meta>
