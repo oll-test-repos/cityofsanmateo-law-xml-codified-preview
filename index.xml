@@ -16,7 +16,7 @@
     <law-url>https://github.com/oll-test-repos/cityofsanmateo-law</law-url>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="79fda9e5b47e82c566f2124c374b2ad8b5956dc2"/>
+        <repository name="cityofsanmateo/law-xml" commit="07e37ab4cd43bea1f7beff60dfb648b8450917e2"/>
       </repositories>
       <platform version="2.5.0" reproducible="false"/>
       <build-date>2021-11-29</build-date>
