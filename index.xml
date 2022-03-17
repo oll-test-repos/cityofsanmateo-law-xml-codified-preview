@@ -16,7 +16,7 @@
     <history-start>2018-03-05</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="1225192d9f1cb7e69f86c1a3cdd757d40ebf9c66"/>
+        <repository name="cityofsanmateo/law-xml" commit="d4aeb78b5e70b8be1c889bed98018b163b3c5d87"/>
       </repositories>
       <platform version="2.6.0" reproducible="false"/>
       <build-date>2022-03-17</build-date>
