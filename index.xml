@@ -16,17 +16,18 @@
     <history-start>2018-03-05</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="3f7dd930442b4023e08a09958c00bef5ae020bca"/>
+        <repository name="cityofsanmateo/law-xml" commit="ed92099906703385bf6df1d768b87ea6ef422dc9"/>
       </repositories>
       <platform version="2.6.0" reproducible="false"/>
       <build-date>2022-03-31</build-date>
-      <codified-date>2022-01-22</codified-date>
+      <codified-date>2022-02-07</codified-date>
     </build>
   </meta>
   <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>
   <xi:include href="./us/ca/cities/san-mateo/code/index.xml"/>
   <collection name="us/ca/cities/san-mateo/ordinances">
     <heading>Ordinances</heading>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2022/index.xml"/>
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2021/index.xml"/>
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2020/index.xml"/>
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2019/index.xml"/>
