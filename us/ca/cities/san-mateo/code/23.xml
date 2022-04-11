@@ -3006,6 +3006,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-8" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3273,6 +3274,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-8" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3773,6 +3775,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-8" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
   </container>
@@ -5146,7 +5149,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-13" path="§1" type="History"/>
-        <annotation app="2021-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2021-01-14" path="§4|(a)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§4|(a)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5588,12 +5591,13 @@
     <prefix>Chapter</prefix>
     <num>23.65</num>
     <heading>Child Care Development Fee</heading>
+    <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
     <section>
       <num>23.65.010</num>
       <heading>Purpose</heading>
       <text>The purpose of the childcare development fee is to fund the development of child care facilities in order to serve a need created by both commercial and residential development.</text>
       <annotations>
-        <annotation app="2021-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2021-01-14" path="§5" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5601,10 +5605,9 @@
       <heading>Fee</heading>
       <text>A childcare development impact fee, in an amount established by City Council resolution is imposed on all residential and commercial development, including new development, addition of square footage to existing development, and tenant improvements to existing structures if those tenant improvements require planning approval.</text>
       <annotations>
-        <annotation app="2021-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2021-01-14" path="§5" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
       </annotations>
     </section>
-    <annotation app="2021-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2021-01-14" path="§5" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
