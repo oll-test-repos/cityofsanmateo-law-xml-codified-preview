@@ -132,21 +132,40 @@
     </section>
     <section>
       <num>10.04.080</num>
-      <heading>Drinking—Public Areas.</heading>
-      <text>It is unlawful for any person to drink or possess any open container of beer, wine, or other intoxicating beverage on any public sidewalk, alley, street, or highway, unless expressly permitted at that location pursuant to a permit, such as an outdoor dining permit or special event permit, and the consumption is in conformance with the terms of the permit.</text>
+      <heading>Drinking – Public Areas.</heading>
+      <text>Except as otherwise provided in this code, it shall be unlawful for any person to consume, drink, or possess an open container of any alcoholic or intoxicating beverage in any quantity in the following places:</text>
+      <para>
+        <num>(a)</num>
+        <text>On any public street, sidewalk, right-of-way, highway, alley, transit station, transit stop, transit platform, or parking facility, or on any public properties owned, operated, and maintained by the City of San Mateo.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>On the premises, or within 500 feet, of any business engaged in the retail sale of alcoholic beverages.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>On any private parking lot open to the public including, but not limited to, shopping center parking lots.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>On a private street, alley, driveway, stairway, doorway, or other outdoor area of private property open to public view without the express permission of the owner, their agent, or the person in lawful possession thereof.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-19" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-3" path="§1" type="History"/>
         <annotation app="2020-07-15" doc="City of San Mateo, Cal., Ord. No. 2020-6" eff="2020-07-15" path="§1" type="History"/>
+        <annotation app="2023-10-05" doc="City of San Mateo, Cal., Ord. No. 2023-6" eff="2023-10-05" path="§1" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
+      <reason>Repealed</reason>
       <num>10.04.090</num>
       <heading>DRINKING—PRIVATE PARKING LOTS.</heading>
-      <text>It is unlawful for any person to drink or possess any open container of beer, wine, or other intoxicating beverage upon that portion of private property open to the public and within 500 feet of any public sidewalk, alley, street or highway, which is used or intended to be used for the parking or storage of motor vehicles by customers or employees of any business, commercial or industrial establishment without the express written permission of the owner, agent, or person in lawful possession thereof. This section shall not be deemed to make punishable any such act or acts which are prohibited by the <cite doc="Cal. Veh. Code">Vehicle Code</cite> or by any other law of the State.</text>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-19" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-3" path="§1" type="History"/>
+        <annotation app="2023-10-05" doc="City of San Mateo, Cal., Ord. No. 2023-6" eff="2023-10-05" path="§2" type="History"/>
       </annotations>
     </section>
     <section>

@@ -2934,7 +2934,7 @@
       </para>
       <para>
         <num>(q)</num>
-        <text>Minimum lighting consisting of at least one artificial light of not less than 40 watts shall be provided and shall be operating in each room or enclosure where massage services are being performed on clients, and in all areas where clients are present.</text>
+        <text>Minimum lighting consisting of at least one artificial light of not less than 450 lumens shall be provided and shall be operating in each room or enclosure where massage services are being performed on clients, and in all areas where clients are present.</text>
       </para>
       <para>
         <num>(r)</num>
@@ -2970,6 +2970,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-12" path="§1" type="History"/>
+        <annotation app="2024-02-15" doc="City of San Mateo, Cal., Ord. No. 2024-1" eff="2024-02-15" path="§2|(q)" type="History"/>
       </annotations>
     </section>
     <section>

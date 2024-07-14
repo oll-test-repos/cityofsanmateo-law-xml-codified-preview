@@ -4237,7 +4237,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>To apply Crime Prevention Through Environmental Design and Defensible Space Techniques.</text>
+        <text>To apply crime prevention through environmental design and safety technologies.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -4249,6 +4249,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-8" path="§1" type="History"/>
+        <annotation app="2024-02-15" doc="City of San Mateo, Cal., Ord. No. 2024-1" eff="2024-02-15" path="§1|(b)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4377,25 +4378,43 @@
     <section>
       <num>23.54.020</num>
       <heading>CITY COMMUNICATION SYSTEMS – HIGH RISE BUILDINGS.</heading>
-      <text>All new buildings five or more stories in height shall provide a location on the building for installation of City radio communications equipment, including antennas and their supporting equipment. An electrical supply source shall be provided by the permittee at the antenna/equipment location, and reasonable access shall be provided by the permittee and/or building owner to City staff and/or City contractors for installation of necessary telephone lines and for purposes of installation, maintenance, adjustment and repair of the antenna/equipment. This access and location agreement shall be recorded in terms that convey the intent and meaning of this condition in the form approved by the City Attorney.</text>
+      <text>All new buildings with a top plate height of 55 feet or more shall provide a location on the building for installation of City radio communications equipment, including antennas and their supporting equipment. An electrical supply source shall be provided by the permittee at the antenna/equipment location, and reasonable access shall be provided by the permittee and/or building owner to City staff and/or City contractors for installation of necessary telephone lines and for purposes of installation, maintenance, adjustment and repair of the antenna/equipment. This access and location agreement shall be recorded in terms that convey the intent and meaning of this condition in the form approved by the City Attorney.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-35" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-1" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-12" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-4" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1999-19" path="§1" type="History"/>
+        <annotation app="2024-02-15" doc="City of San Mateo, Cal., Ord. No. 2024-1" eff="2024-02-15" path="§3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>23.54.025</num>
+      <heading>Secured Building Access for Emergency Personnel</heading>
+      <text>Where access to commercial or multi-tenant buildings is restricted because of secured entry points, the Police Chief or their designee is authorized to specify and require the installation and maintenance of an emergency access system, for when immediate police access is necessary for life-saving or emergency purposes. A police emergency access system installed and maintained under this section is in addition to the requirements of other adopted codes, including the California Fire Code.</text>
+      <annotations>
+        <annotation app="2023-12-20" doc="City of San Mateo, Cal., Ord. No. 2023-11" eff="2023-12-20" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.54.030</num>
-      <heading>PARKING GARAGE SECURITY.</heading>
-      <text>Parking garages serving residential uses shall be provided with electrically operated closures to allow passage of motor vehicles, except that required visitor parking shall have unrestricted access. The closures, whether overhead, sliding or swinging shall be provided with reopening devices which will function to stop and reopen the closure in case the closure is obstructed when closing. Openings into the garage which are not for vehicular or human passage shall be provided with security grilles or screens. Digital keypads shall be provided to allow for entry by services and emergency services vehicles. Exterior doors or gates providing access to the secure areas of the parking garage shall remain locked at all times, and shall only be accessible through the use of keys furnished to the building residents.</text>
+      <heading>PARKING GARAGE SECURITY</heading>
+      <text>Multi-family residential uses with five or more units providing a common parking garage, whether solely for dwelling uses or in combination with other uses, shall provide the following minimum security measures: securing against unauthorized vehicle and pedestrian access; allowing for emergency access for first responders and secure tenant-only access during specified hours; installing and maintaining a surveillance video system and interior security lighting. Additional security measures may be required based on project-specific determinations by the Chief of Police or their designee. All required security measures shall be approved by the Chief of Police or their designee.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-35" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-1" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-12" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-4" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-8" path="§4" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-4" eff="2023-09-20" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>23.54.035</num>
+      <heading>Video Surveillance Systems</heading>
+      <text>Commercial and multi-tenant buildings shall have installed and maintain a recording video surveillance system with cameras placed to view publicly accessible exterior grounds contiguous to that property. Additional cameras and camera technologies may be installed by a property owner, and additional cameras and camera technologies may be required based on project-specific conditions including, but not limited to, project size, and location as determined by the Chief of Police or their designee. A video surveillance system installed under this section shall be approved by the Chief of Police or their designee.</text>
+      <annotations>
+        <annotation app="2023-12-20" doc="City of San Mateo, Cal., Ord. No. 2023-11" eff="2023-12-20" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
