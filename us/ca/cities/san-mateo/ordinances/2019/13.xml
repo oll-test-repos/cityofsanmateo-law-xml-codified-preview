@@ -381,7 +381,7 @@
   <section>
     <num>5</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.10">Chapter 23.10 of the San Mateo Municipal Code</cite> is repealed.</text>
-    <codify:repeal path="23.10" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.010"/>
+    <codify:repeal path="23.10" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.010|annos"/>
     <codify:repeal path="23.10.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.010"/>
     <codify:repeal path="23.10.012" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.012"/>
     <codify:repeal path="23.10.014" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.014"/>
@@ -512,7 +512,7 @@
   <section>
     <num>10</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.32">Chapter 23.32 of the San Mateo Municipal Code</cite> is repealed.</text>
-    <codify:repeal path="23.32" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.010"/>
+    <codify:repeal path="23.32" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.010|annos"/>
     <codify:repeal path="23.32.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.010"/>
     <codify:repeal path="23.32.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.020"/>
     <codify:repeal path="23.32.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.030"/>

@@ -39,8 +39,8 @@
   <section>
     <num>1</num>
     <text>Chapters <cite doc="City of San Mateo, Cal., Code" path="13.35">13.35</cite> and <cite doc="City of San Mateo, Cal., Code" path="13.52">13.52</cite> of the San Mateo Municipal Code are repealed.</text>
-    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.35.010"/>
-    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.52" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.52.010"/>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.35.010|annos"/>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.52" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.52.010|annos"/>
   </section>
   <section codify:doc="City of San Mateo, Cal., Code" codify:path="1.04.050">
     <num>2</num>
@@ -69,7 +69,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40 of the San Mateo Municipal Code</cite> is adopted to read as follows:</text>
     <include>
       <container>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="13" before="13.52" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.40.010"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="13" before="13.52" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.40.010|annos"/>
         <prefix>Chapter</prefix>
         <num>13.40</num>
         <heading>Protected Trees</heading>

@@ -45,7 +45,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="5.66">Chapter 5.66</cite>, "Short Term Rentals," is added to <cite doc="City of San Mateo, Cal., Code" path="5">Title 5, "Business Licenses and Regulations," of the San Mateo Municipal Code</cite> to read as follows:</text>
     <include>
       <container>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="5" after="5.64" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.010"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="5" after="5.64" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.010|annos"/>
         <prefix>Chapter</prefix>
         <num>5.66</num>
         <heading>Short Term Rentals</heading>

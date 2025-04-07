@@ -70,15 +70,15 @@
             <heading>Parking.</heading>
           </toc-section>
         </toc>
-        <codify:remove path="11.56.010" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
-        <codify:remove path="11.56.020" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
-        <codify:remove path="11.56.030" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
-        <codify:remove path="11.56.040" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
-        <codify:remove path="11.56.050" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
-        <codify:remove path="11.56.060" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
-        <codify:remove path="11.56.070" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
-        <codify:remove path="11.56.080" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
-        <codify:remove path="11.56.090" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
+        <codify:remove path="11.56.010" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100|annos"/>
+        <codify:remove path="11.56.020" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100|annos"/>
+        <codify:remove path="11.56.030" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100|annos"/>
+        <codify:remove path="11.56.040" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100|annos"/>
+        <codify:remove path="11.56.050" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100|annos"/>
+        <codify:remove path="11.56.060" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100|annos"/>
+        <codify:remove path="11.56.070" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100|annos"/>
+        <codify:remove path="11.56.080" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100|annos"/>
+        <codify:remove path="11.56.090" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100|annos"/>
         <section>
           <codify:replace path="11.56.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.56.100"/>
           <num>11.56.100</num>

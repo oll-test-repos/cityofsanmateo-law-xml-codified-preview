@@ -421,7 +421,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.30">Chapter 23.30 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> as follows:</text>
     <include>
       <container>
-        <codify:insert path="23" after="23.28" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.30.010"/>
+        <codify:insert path="23" after="23.28" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.30.010|annos"/>
         <prefix>Chapter</prefix>
         <num>23.30</num>
         <heading>Dangerous Building Code</heading>

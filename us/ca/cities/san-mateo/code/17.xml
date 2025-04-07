@@ -352,7 +352,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text><strong>Wireless Permit</strong> means the permit issued by the Department of Public Works for any work required in the public right-of-way for the installation or in support or otherwise related to a wireless facility, consistent with the Design Standards and Application Requirements adopted by the Director of Public Works consistent with <cite path="17.10">this Chapter</cite>.</text>
+        <text><strong>Wireless Permit</strong> means the permit issued by the Department of Public Works for any work required in the public right-of-way for the installation or in support or otherwise related to a wireless facility, consistent with the Design Standards and Application Requirements and City Council Policy.</text>
       </para>
       <para>
         <num>(j)</num>
@@ -398,9 +398,14 @@
         <num>(t)</num>
         <text><strong>Wireless</strong> means any FCC-licensed or authorized wireless communication service transmitted over frequencies in the electromagnetic spectrum.</text>
       </para>
+      <para>
+        <num>(u)</num>
+        <text><strong>City Council Policy </strong>means a policy adopted by resolution pursuant to <cite path="17.10">this Chapter</cite> which authorizes the City Council to adopt procedural and substantive rules for small wireless facilities deployment with the City of San Mateo.</text>
+      </para>
       <annotations>
         <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
         <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§2" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -418,9 +423,14 @@
         <num>(c)</num>
         <text>Special Provisions for Section 6409 Approvals. Notwithstanding <cite path="17.10.030|(a)">Section 17.10.030(a)</cite>, all requests for approval to collocate, replace, or remove transmission equipment at an existing wireless tower or base station located in the public right-of-way and submitted pursuant to Section 6409 will be reviewed under the general wireless permit application procedures provided in <cite path="17.10">this Chapter</cite>, as well as the special Section 6409 provisions provided in <cite path="17.10.110">Section 17.10.110</cite> and the Design Standards and Application Requirements.</text>
       </para>
+      <para>
+        <num>(d)</num>
+        <text>Special Provisions for Small Wireless Facilities. Notwithstanding <cite path="17.10.030|(a)">Section 17.10.030(a)</cite>, all small wireless facilities within the City's public rights-of-way are subject to a permit as specified in a City Council Policy, which may be adopted, amended and/or repealed by a resolution of the City Council. All small wireless facilities within the City's public rights-of-way shall comply with the City Council's Policy. If a City Council Policy regulating small wireless facilities within the City's rights-of-way is not adopted, or is otherwise repealed after adoption and not replaced, an application for a small wireless facility within the City's public rights-of-way shall be processed pursuant to the provisions in <cite path="17.10">this Chapter</cite>.</text>
+      </para>
       <annotations>
         <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
         <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§3" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -428,7 +438,8 @@
       <heading>Required Approvals</heading>
       <para>
         <num>(a)</num>
-        <text>Wireless Permit. A wireless permit, subject to the City's prior review and approval in accordance with the procedures in <cite path="17.10">this Chapter</cite> and the City's Design Standards and Application Requirements, is required for any applicant seeking to construct, install, modify, maintain or engage in an activity relating to a wireless facility in, on, under, or above the public right-of-way prior to conducting any work related to such wireless facility.</text>
+        <heading>Wireless Permit.</heading>
+        <text>A wireless permit, subject to the City's prior review and approval in accordance with the procedures in <cite path="17.10">this Chapter</cite>, the City Council Policy, and the City's Design Standards and Application Requirements, is required for any applicant seeking to construct, install, modify, maintain or engage in an activity relating to a wireless facility in, on, under, or above the public right-of-way prior to conducting any work related to such wireless facility.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -445,6 +456,7 @@
       <annotations>
         <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
         <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§4" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -460,20 +472,25 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Procedures for a Duly Filed Application. Any application for a wireless permit will not be considered duly filed or complete unless submitted in accordance with any and all written rules and policies the City may adopt consistent with <cite path="17.10">this Chapter</cite>, including but not limited to the Design Standards and Application Requirements.</text>
+        <text>City Council Policy.  All new wireless facilities, or other changes to existing wireless facilities must comply with the City Policy, which may be adopted and updated by City Council resolution.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Notice.  Within five (5) calendar days of submitting an application for a wireless permit, the applicant shall provide written notice by first class U.S. mail to all property owners and residents within a  500' radius of the proposed project site.  In addition, the notice shall be posted in a minimum of three (3) locations near the project site.  The content of the notice shall be in a form approved by the city and include information as specified in the Design Standards and Application Requirements, including but not limited to: 1) a general description of the proposed improvements and other equipment to be constructed or installed, and proposed site location; 2) applicant's contact information for property owners and residents to submit comments regarding the project and the timeline to do so; 3) city's webpage to access and be notified of decisions on applications;  and 4) right to appeal a decision and timeline to do so.</text>
-        <text>Notices shall be in English and in other languages as deemed appropriate by the city. The applicant shall provide documentation of satisfaction of the notification requirement to the City prior to approval of the wireless permit.</text>
+        <text>Procedures for a Duly Filed Application. Any application for a wireless permit will not be considered duly filed or complete unless submitted in accordance with any and all written rules and policies the City may adopt consistent with <cite path="17.10">this Chapter</cite>, including but not limited to the Design Standards and Application Requirements and City Council Policy.</text>
       </para>
       <para>
         <num>(e)</num>
+        <text>Notice.  Within three (3) calendar days of submitting an application for a wireless permit, the applicant shall provide written notice by U.S. mail informed delivery to all property owners and residents within a  500' radius of the proposed project site.  In addition, the notice shall be posted in a minimum of three (3) locations near the project site.  The content of the notice shall be in a form approved by the city and include information as specified in the Design Standards and Application Requirements and City Council Policy, including but not limited to: 1) a general description of the proposed improvements and other equipment to be constructed or installed, and proposed site location; 2) applicant's contact information for property owners and residents to submit comments regarding the project and the timeline to do so; 3) city's webpage to access and be notified of decisions on applications;  and 4) right to appeal a decision and timeline to do so.</text>
+        <text>Notices shall be in English and in other languages as deemed appropriate by the city. The applicant shall provide documentation of satisfaction of the notification requirement to the City prior to approval of the wireless permit.</text>
+      </para>
+      <para>
+        <num>(f)</num>
         <text>Additional Procedures. The City Council authorizes the Director to establish any other forms and procedures relating to the implementation of <cite path="17.10">this Chapter</cite>.</text>
       </para>
       <annotations>
         <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
         <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§5" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -508,7 +525,7 @@
         <text>Required Findings for Approval. The Director may approve or conditionally approve an application for a wireless permit submitted under <cite path="17.10">this Chapter</cite> when the Director finds all of the following:</text>
         <para>
           <num>(1)</num>
-          <text>the applicant and the proposed wireless facility comply with all applicable requirements of <cite path="17.10">this Chapter</cite> and the City Design Standards and Application Requirements; and</text>
+          <text>the applicant and the proposed wireless facility comply with all applicable requirements of <cite path="17.10">this Chapter</cite>, the City Council Policy, and the City Design Standards and Application Requirements; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -541,11 +558,12 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Appeals. The applicant or any person who is a property owner or resident within 500' of the project site may appeal any decision by the Director to approve or deny an application for a wireless permit. Appeals must be filed with the Secretary of the Sustainability and Infrastructure Commission within five calendar days following the Director's decision. The Secretary shall set the appeal for hearing on the agenda for the next regular or special meeting of the Sustainability and Infrastructure Commission, or otherwise within a time frame needed to comply with all applicable state or federal laws. Appeals from an approval will not be permitted to the extent that the appeal is based on environmental effects from RF emissions that comply with all applicable FCC regulations.  The Sustainability and Infrastructure Commission shall review the appeal de novo, with the appellant having the burden of proof to establish the basis for seeking a reversal of the Director's decision, and issue a decision at the hearing. The decision of the Sustainability and Infrastructure Commission shall be final and not subject to any further administrative appeals.</text>
+        <text>Appeals. The applicant or any person who is a property owner or resident within 500' of the project site may appeal any decision by the Director to approve or deny an application for a wireless permit. Appeals must be filed with the City Clerk within ten calendar days following the Director's decision. Payment of the appeal hearing fee pursuant to the City's Adopted Comprehensive Fee Schedule must be made prior to the scheduling of the appeal hearing. The appeal for hearing before a hearing officer shall be set at the next available date, or otherwise within a time frame needed to comply with all applicable state or federal laws. Appeals from an approval will not be permitted to the extent that the appeal is based on environmental effects from RF emissions that comply with all applicable FCC regulations, or as provided in the City Council Policy.  The hearing officer shall review the appeal de novo, with the appellant having the burden of proof to establish the basis for seeking a reversal of the Director's decision, and issue a decision at the hearing. The hearing officer's decision shall be final and not subject to any further administrative appeals.</text>
       </para>
       <annotations>
         <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
         <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§7" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -553,15 +571,16 @@
       <heading>Standard Conditions of Approval</heading>
       <para>
         <num>(a)</num>
-        <text>Standard Conditions. All wireless facilities, whether approved by the Director or deemed approved or deemed granted by law shall be automatically subject to all standard conditions of approval as provided in Appendix C of the Design Standards and Application Requirements.</text>
+        <text>Standard Conditions. All wireless facilities, whether approved by the Director or deemed approved or deemed granted by law shall be automatically subject to all standard conditions of approval as provided in the City Council Policy and/or the Design Standards and Application Requirements.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Modifications to Standard Conditions. The Director (or the  Sustainability and Infrastructure Commission on appeal) shall have discretion to modify or amend any standard conditions of approval on a case-by-case basis as may be necessary or appropriate to protect and promote the public health, safety and welfare, allow for the proper operation of the approved wireless facility, maintain compliance with applicable laws and/or to advance the goals or policies in the General Plan and any specific plan, the San Mateo Municipal Code and/or <cite path="17.10">this Chapter</cite>.</text>
+        <text>Modifications to Standard Conditions. The Director (or the  hearing officer on appeal) shall have discretion to modify or amend any standard conditions of approval on a case-by-case basis as may be necessary or appropriate to protect and promote the public health, safety and welfare, allow for the proper operation of the approved wireless facility, maintain compliance with applicable laws and/or to advance the goals or policies in the General Plan and any specific plan, the San Mateo Municipal Code and/or <cite path="17.10">this Chapter</cite>.</text>
       </para>
       <annotations>
         <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
         <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§8" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§7" type="History"/>
       </annotations>
     </section>
     <section>
@@ -569,7 +588,7 @@
       <heading>Revocation; Abandonment</heading>
       <para>
         <num>(a)</num>
-        <text>Revocation. Any wireless permit, City pole license, or other authorized use of the public right-of-way granted under <cite path="17.10">this Chapter</cite> may be revoked or modified for cause in accordance with the provisions of this Section.</text>
+        <text>Revocation. Any wireless permit, or other authorized use of the public right-of-way granted under <cite path="17.10">this Chapter</cite> may be revoked or modified for cause in accordance with the provisions of this Section.</text>
         <para>
           <num>(1)</num>
           <text>Revocation proceedings may be initiated by the Director.</text>
@@ -588,7 +607,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>A permittee whose permit or right has been revoked may have the revocation reviewed, upon written appeal to the Sustainability and Infrastructure Commission as set forth in <cite path="17.10">this Chapter</cite>.</text>
+          <text>A permittee whose permit or right has been revoked may have the revocation reviewed, upon written appeal to the Director as set forth in <cite path="17.10">this Chapter</cite>.</text>
         </para>
       </para>
       <para>
@@ -598,6 +617,7 @@
       <annotations>
         <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
         <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§9" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§8" type="History"/>
       </annotations>
     </section>
     <section>
@@ -684,110 +704,21 @@
     <section>
       <num>17.10.120</num>
       <heading>Review of Ordinance</heading>
-      <text>Wireless communications technology is currently subject to rapid change. Innovations may render the need for specific sections of <cite path="17.10">this Chapter</cite> to be reviewed and revised. The City Council may amend <cite path="17.10">this Chapter</cite> or its rules and policies by resolution after a change to the FCC's regulations or standards, or any applicable state or federal laws.</text>
+      <text>Wireless communications technology is currently subject to rapid change. Innovations may render the need for specific sections of <cite path="17.10">this Chapter</cite> to be reviewed and revised. The City Council may amend <cite path="17.10">this Chapter</cite> by ordinance or its rules and policies by resolution after a change to the FCC's regulations or standards, or any applicable state or federal laws.</text>
       <annotations>
         <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
         <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§12" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§9" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
+      <reason>Repealed</reason>
       <num>17.10.130</num>
       <heading>SPECIAL PROVISIONS FOR SECTION 6409 APPROVALS.</heading>
-      <para>
-        <num>(a)</num>
-        <heading>Applicability.</heading>
-        <text>This Section applies to all requests for approval to collocate, replace or remove transmission equipment at an existing wireless tower or base station located in the public rights-of-way submitted pursuant to Section 6409. However, the applicant may voluntarily elect to seek a major or minor wireless permit under <cite path="17.10.030">Section 17.10.030</cite>.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <heading>Additional Section 6409 Definitions.</heading>
-        <text>In addition to the definitions in <cite path="17.10.020">Section 17.10.020</cite>, the abbreviations, phrases, terms and words used in this Section will have the following meanings assigned to them unless context indicates otherwise. Undefined phrases, terms or words in this section will have the meanings assigned to them in 47 U.S.C. § 153, as may be amended from time to time, and, if not defined therein, will have their ordinary meanings. In the event that any definition assigned to any phrase, term or word in this section conflicts with any federal or state-mandated definition, the federal or state-mandated definition will control.</text>
-        <para>
-          <num>(1)</num>
-          <text>"<strong>eligible facilities request</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(3), as may be amended.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>"<strong>eligible support structure</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(4), as may be amended.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>"<strong>existing</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(4), as may be amended.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>"<strong>site</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(6), as may be amended.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>"<strong>substantial change</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(7), as may be amended.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <heading>Required Approval.</heading>
-        <text>Any request to collocate, replace or remove transmission equipment at an existing wireless tower or base station located in the public right-of-way submitted with a written request for approval under Section 6409 shall require an administrative approval in such form determined by the Director consistent with all valid and enforceable terms and conditions of the underlying permit or other prior regulatory authorization for the tower or base station (each amendment a "section 6409 approval"). Each section 6409 approval shall be subject to the Director's approval, conditional approval or denial without prejudice pursuant to the standards and procedures in this Section. However, the applicant may voluntarily elect to seek a major or minor wireless permit subject to the general standards and procedures in <cite path="17.10">this Chapter</cite>.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <heading>Decisions; Appeals.</heading>
-        <para>
-          <num>(1)</num>
-          <heading>Administrative Review.</heading>
-          <text>The approval authority shall administratively review a complete and duly filed application for a section 6409 approval, and may act on such application without prior notice or a public hearing.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <heading>Decision Notices.</heading>
-          <text>Within five days after the approval authority acts on an application for a section 6409 approval or before the FCC Shot Clock expires (whichever occurs first), the approval authority shall send a written notice to the applicant. In the event that the approval authority denies the application, the written notice to the applicant must contain: (1) the reasons for the decision; (2) a statement that denial will be without prejudice; and (3) instructions for how and when to file an appeal.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <heading>Required Findings for Approval.</heading>
-          <text>The approval authority may approve or conditionally approve any application for a section 6409 approval when the approval authority finds that the proposed project:</text>
-          <para>
-            <num>(A)</num>
-            <text>involves collocation, removal or replacement of transmission equipment on an existing wireless tower or base station;</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>does not substantially change the physical dimensions of the existing wireless tower or base station; and</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>remains in compliance with all applicable FCC RF standards.</text>
-          </para>
-        </para>
-        <para>
-          <num>(4)</num>
-          <heading>Criteria for Denial without Prejudice.</heading>
-          <text>Notwithstanding any other provision in <cite path="17.10">this Chapter</cite>, and consistent with all applicable federal laws and regulations, the approval authority may deny without prejudice any application for a section 6409 approval when the approval authority finds that the proposed project:</text>
-          <para>
-            <num>(A)</num>
-            <text>does not meet the findings required in <cite path="17.10.130|(d)|(3)">Section 17.10.130(d)(3)</cite>;</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>involves the replacement of the entire support structure; or</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>violates any legally enforceable law, regulation, rule, standard or permit condition reasonably related to public health or safety.</text>
-          </para>
-        </para>
-        <para>
-          <num>(5)</num>
-          <heading>Conditional Approvals.</heading>
-          <text>Subject to any applicable limitations in federal or state law, nothing in this Section is intended to limit the approval authority's authority to conditionally approve an application for a section 6409 approval to protect and promote the public health and safety.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <heading>Appeals.</heading>
-          <text>Any applicant may appeal the approval authority's written decision to deny without prejudice an application for section 6409 approval. The written appeal together with any applicable appeal fee must be tendered to the City Clerk within ten calendar days from the approval authority's written decision and must state in plain terms the grounds for reversal and the facts that support those grounds. The City Manager shall be the appellate authority for all appeals from the approval authority's written decision to deny without prejudice an application for section 6409 approval. The City Manager shall review the application <em>de novo</em>; provided, however, that the City Manager's decision shall be limited to only whether the application should be approved or denied in accordance with the provisions in this Section and any other applicable laws. The City Manager shall issue a written decision that contains the reasons for the decision, and such decision shall be final and not subject to any further administrative appeals.</text>
-        </para>
-      </para>
+      <text>Repealed.</text>
       <annotations>
         <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§10" type="History"/>
       </annotations>
     </section>
   </container>

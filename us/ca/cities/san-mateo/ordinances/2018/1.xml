@@ -200,8 +200,8 @@
           <heading>SEWER CONNECTION CHARGES.</heading>
           <text>Before making a connection to the sanitary sewer system, a permit shall be obtained from the Building Official. No connection permit shall be issued except upon payment of the applicable sewer connection charge. The sewer connection charge shall be established by resolution of the City Council.</text>
         </section>
-        <codify:remove path="3.54.070" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|3.54.010"/>
-        <codify:remove path="3.54.071" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|3.54.010"/>
+        <codify:remove path="3.54.070" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|3.54.010|annos"/>
+        <codify:remove path="3.54.071" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|3.54.010|annos"/>
         <section>
           <codify:replace path="3.54.080" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|3.54.070"/>
           <num>3.54.070</num>
