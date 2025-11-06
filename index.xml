@@ -7,25 +7,25 @@
       <email>help@openlawlib.org</email>
     </contact>
     <canonical-urls>
-      <xml-bulk>https://github.com/cityofsanmateo/law-xml</xml-bulk>
-      <html-bulk>https://github.com/cityofsanmateo/law-html</html-bulk>
+      <xml-bulk>https://github.com/oll-test-repos/cityofsanmateo-law-xml</xml-bulk>
+      <html-bulk>https://github.com/oll-test-repos/cityofsanmateo-law-html</html-bulk>
       <html>
         <current>https://law.cityofsanmateo.org</current>
         <historical>
           <historic end="2022-12-21">https://sanmateo.ca.us.open.law</historic>
         </historical>
       </html>
-      <static-assets>https://github.com/cityofsanmateo/law-static-assets</static-assets>
-      <law-git>https://github.com/cityofsanmateo/law.git</law-git>
+      <static-assets>https://github.com/oll-test-repos/cityofsanmateo-law-static-assets</static-assets>
+      <law-git>https://github.com/oll-test-repos/cityofsanmateo-law.git</law-git>
     </canonical-urls>
     <history-start>2018-03-05</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="c93f6debda493fb40c814143c68d9910cb620129"/>
+        <repository name="cityofsanmateo/law-xml" commit="5d57247c74c51fd82133d83350f0399c6005cad8"/>
       </repositories>
-      <platform version="2.16.0" reproducible="false"/>
-      <build-date>2025-04-08</build-date>
-      <codified-date>2025-02-20</codified-date>
+      <platform version="2.17.4" reproducible="false"/>
+      <build-date>2025-11-06</build-date>
+      <codified-date>2025-10-19</codified-date>
     </build>
   </meta>
   <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>

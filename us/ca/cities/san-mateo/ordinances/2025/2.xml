@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="City of San Mateo, Cal., Ord. No. 2025-01" codify:doc="City of San Mateo, Cal., Code">
-  <num>2025-01</num>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="City of San Mateo, Cal., Ord. No. 2025-02" codify:doc="City of San Mateo, Cal., Code">
+  <num>2025-02</num>
   <heading type="short">New Construction Reach Codes for the 2022 Cycle – Ordinance Adoption </heading>
   <heading type="long">An Ordinance amending San Mateo Municipal Code Chapter 23.24 "Energy Code," of Title 23, "Building and Construction," to amend the California Energy Code, 2022 Edition and amending San Mateo Municipal Code Chapter 23.70 "Green Building Code," of Title 23, "Building and Construction," to amend the California Green Building Standards Code, 2022 Edition</heading>
   <meta>
-    <effective>2025-02-20</effective>
+    <effective>2025-10-19</effective>
     <citations>
-      <citation type="ord" url="./adopted/2025-01.pdf">Ord. No. 2025-01</citation>
-      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-01</citation>
+      <citation type="ord" url="./adopted/2025-02.pdf">Ord. No. 2025-02</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-02</citation>
     </citations>
     <history>
       <introduced>2025-01-13</introduced>
-      <adopted>2025-01-21</adopted>
+      <adopted>2025-02-21</adopted>
     </history>
   </meta>
   <recitals>
@@ -72,20 +72,26 @@
       <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
     </recital>
   </recitals>
-  <section>
+  <section codify:applicability="2025-02-19">
     <num>1</num>
-    <heading>Local Amendment to Definitions</heading>
-    <para>
-      <num>(a)</num>
-      <text>Energy Code subsection 100.1(b) is amended to include the following definitions:</text>
-      <include>
-        <text><strong>Electric Heating Appliance. </strong>A device that produces heat energy to create a warm environment by the application of electric power to resistance elements, refrigerant compressors, or dissimilar material junctions, as defined in the California Mechanical Code.</text>
-        <text><strong>Kitchen, institutional commercial. </strong>A kitchen dedicated to a foodservice establishment that provides meals at institutions including schools, colleges and universities, hospitals, correctional facilities, private cafeterias, nursing homes, and other buildings or structures in which care or supervision is provided to occupants.</text>
-        <text><strong>Kitchen, quick-service commercial.</strong> A kitchen dedicated to an establishment primarily engaged in providing fast food, fast casual, or limited services. Food and drink may be consumed on premises, taken out, or delivered to the customer's location.</text>
-        <text><strong>Net Free Area (NFA)</strong>. The total unobstructed area of the air gaps between louver and grille slats in a vent through which air can pass. The narrowest distance between two slats, perpendicular to the surface of both slats is the air gap height. The narrowest width of the gap is the air gap width. The NFA is the air gap height multiplied by the air gap width multiplied by the total number of air gaps between slats in the vent.</text>
-      </include>
-    </para>
-    <annotation app="2025-02-19" doc="City of San Mateo, Cal., Ord. No. 2025-02" eff="2025-10-19" path="§1" type="History"/>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.020">Section 23.24.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Ord. No. 2025-01" path="1"/>
+        <num>1</num>
+        <heading>Local Amendment to Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>Energy Code subsection 100.1(b) is amended to include the following definitions:</text>
+          <include>
+            <text><strong>Electric Heating Appliance. </strong>A device that produces heat energy to create a warm environment by the application of electric power to resistance elements, refrigerant compressors, or dissimilar material junctions, as defined in the California Mechanical Code.</text>
+            <text><strong>Kitchen, institutional commercial. </strong>A kitchen dedicated to a foodservice establishment that provides meals at institutions including schools, colleges and universities, hospitals, correctional facilities, private cafeterias, nursing homes, and other buildings or structures in which care or supervision is provided to occupants.</text>
+            <text><strong>Kitchen, quick-service commercial.</strong> A kitchen dedicated to an establishment primarily engaged in providing fast food, fast casual, or limited services. Food and drink may be consumed on premises, taken out, or delivered to the customer's location.</text>
+            <text><strong>Net Free Area (NFA)</strong>. The total unobstructed area of the air gaps between louver and grille slats in a vent through which air can pass. The narrowest distance between two slats, perpendicular to the surface of both slats is the air gap height. The narrowest width of the gap is the air gap width. The NFA is the air gap height multiplied by the air gap width multiplied by the total number of air gaps between slats in the vent.</text>
+          </include>
+        </para>
+      </section>
+    </include>
   </section>
   <section>
     <num>2</num>
