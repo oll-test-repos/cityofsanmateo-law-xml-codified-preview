@@ -119,4 +119,8 @@
     </text>
     <text>ATTEST:</text>
   </procedural-data>
+  <codify:replace doc="City of San Mateo, Cal., Code" path="2.29|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.29">
+    <heading>Senior Advisory Commission</heading>
+    <annotation app="2025-01-08" doc="Editor Action 2025-06-05" eff="2025-01-08" path="" type="History" display="false"/>
+  </codify:replace>
 </document>

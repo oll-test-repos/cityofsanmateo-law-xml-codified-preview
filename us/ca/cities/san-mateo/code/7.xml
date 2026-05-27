@@ -2372,7 +2372,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>7.35</num>
-    <heading>Mandatory Organic Waste Disposal<annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-13" eff="2024-01-03" path="§1" type="History"/></heading>
+    <heading>MANDATORY ORGANIC WASTE DISPOSAL<annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-27" eff="2022-01-05" path="" type="History" display="false"/><annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-13" eff="2024-01-03" path="§1" type="History"/><annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-13" eff="2024-01-03" path="" type="History" display="false"/></heading>
     <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-27" eff="2022-01-05" path="§1" type="History"/>
     <section>
       <num>7.35.010</num>
@@ -7219,7 +7219,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>7.50</num>
-    <heading>Property Owner Obligations with Respect to Tenants Displaced from Unsafe or Substandard Units.</heading>
+    <heading>PROPERTY OWNER OBLIGATIONS WITH RESPECT TO TENANTS DISPLACED FROM UNSAFE OR SUBSTANDARD UNITS<annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="" type="History" display="false"/></heading>
     <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
     <section>
       <num>7.50.010</num>
@@ -7240,7 +7240,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>"Dwelling" means any structure that a person uses as a place of permanent or customary abode within San Mateo city limits, including, but not limited to, a single-family dwelling, a unit in multifamily or multipurpose dwelling, a unit of a condominium or cooperative housing project, a mobile home, a garage or shed, or any other unit or property that is considered to be real property under State law. A dwelling is any structure that is actually used for residential purposes regardless of whether the structure is decent, safe or sanitary and regardless of whether the actual residential use is legally permitted or conforming under any applicable laws or regulations.</text>
+        <text>"Dwelling" means any structure that a person uses as a place of permanent or customary abode within San Mateo city limits, including, but not limited to, a single-family dwelling, a unit in multifamily or multipurpose dwelling, a unit of a condominium or cooperative housing project, a mobile home, a garage or shed, or any other unit or property that is considered to be real property under state law. A dwelling is any structure that is actually used for residential purposes regardless of whether the structure is decent, safe or sanitary and regardless of whether the actual residential use is legally permitted or conforming under any applicable laws or regulations.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -7285,6 +7285,7 @@
       <annotations>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-12" eff="2025-12-31" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -7361,11 +7362,12 @@
     </section>
     <section>
       <num>7.50.050</num>
-      <heading>Property owners' notices to tenants.</heading>
-      <text>Any notice from a property owner to an eligible tenant household to vacate or quit a dwelling or room following the issuance by City of a notice to vacate, notice to abate a life threatening condition, or declaration of substandard condition must set forth the reasons for the need to vacate, the tenant household's entitlement to relocation payments from the property owner, the tenant household's right to re-occupancy following completion of repairs (if the property is one to be repaired), and the estimated date for re-occupancy. The property owner shall send a copy of all notices to theDirector.</text>
+      <heading>Property Owners' Notices To Tenants.</heading>
+      <text>Any notice from a property owner to an eligible tenant household to vacate or quit a dwelling or room following the issuance by City of a notice to vacate, notice to abate a life threatening condition, or declaration of substandard condition must set forth the reasons for the need to vacate, the tenant household's entitlement to relocation payments from the property owner, the tenant household's right to re-occupancy following completion of repairs (if the property is one to be repaired), and the estimated date for re-occupancy. The property owner shall send a copy of all notices to the Director.</text>
       <annotations>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-12" eff="2025-12-31" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -7406,7 +7408,7 @@
     </section>
     <section>
       <num>7.50.070</num>
-      <heading>Relocation payments by City chargeable to property owners.</heading>
+      <heading>Relocation Payments By City Chargeable To Property Owners.</heading>
       <para>
         <num>(a)</num>
         <text>The City, in its sole discretion and subject to funding availability, may make any of the payments required of a property owner under <cite path="7.50">this chapter</cite>, including advancing eligible tenant household(s) reimbursable "moving expenses" and "temporary housing accommodations costs" as each of these terms are defined below in <cite path="7.50.090|(b)">section 7.50.090(b)</cite>. Such payments shall continue to be an obligation of the property owner and shall be reimbursed by the property owner to the City. The City may consider making such payments in its own discretion or if a tenant household makes a written request to the Department following a property owner's failure to pay the required payments within the period mandated under <cite path="7.50.060">section 7.50.060</cite>, but in no event later than sixty (60) days following the tenant household's vacation of the dwelling or room. Prior to any City payment to a tenant household, the Director shall make a determination regarding the eligibility of the tenant household for relocation payments. The Department will make reasonable efforts to contact a representative of the property owner prior to making the determination or authorizing the City's payment. However, failure to give prior notice to the property owner shall not relieve the property owner of any obligations under <cite path="7.50">this chapter</cite>.</text>
@@ -7418,6 +7420,7 @@
       <annotations>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-12" eff="2025-12-31" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -7446,7 +7449,7 @@
     </section>
     <section>
       <num>7.50.090</num>
-      <heading>Amount of relocation payments.</heading>
+      <heading>Amount Of Relocation Payments.</heading>
       <para>
         <num>(a)</num>
         <text>Permanent Displacement. An eligible tenant household that will experience permanent displacement as defined above shall receive a monetary relocation payment from the property owner equal to three times the current monthly United States Department of Housing and Urban Development (HUD) Fair Market Rent for a unit of comparable size and type to the dwelling or room from which the displacement occurs, plus a payment not to exceed one thousand dollars ($1,000.00) for actual moving costs and related expenses incurred by the tenant household and substantiated by reasonably probative documentation. The property owner shall treat any non-complying dwelling or room that does not have one or more separate bedrooms as an "efficiency unit" for purposes of determining the applicable HUD Fair Market Rent and calculating the required monetary relocation payment on that basis. In addition, the tenant household is entitled to a refund and/or accounting for any security deposit held by the property owner pursuant to <cite doc="Cal. Civ. Code" path="§1950.5">California Civil Code section 1950.5</cite>. For purposes of <cite path="7.50">this chapter</cite>, "HUD Fair Market Rent" means the amount specified in the schedule of Fair Market Rents for existing housing published by the U.S. Department of Housing and Urban Development under Section 8 of the United States Housing Act of 1937, as amended, applicable to the City of San Mateo and current as of the date the City or court issues the notice to vacate, notice to abate life-threatening condition, or declaration of substandard condition.</text>
@@ -7455,25 +7458,25 @@
         <num>(b)</num>
         <text>Temporary Displacement.</text>
         <para>
-          <num>1.</num>
-          <text>An eligible tenant household that will experience temporary displacement as defined above shall receive monetary relocation payment or payments from the property owner to cover the tenant household's actual and reasonable moving expenses in addition to temporary housing accommodations costs incurred as a result of the temporary displacement. "Moving expenses" shall include the cost of removing, transporting, and/or storing the tenant household's personal property during the displacement period. "Temporary housing accommodations costs" shall include the cost of rental payments and hotel or motel payments during the displacement period. The total amount of temporary housing accommodations costs paid by the property owner shall not exceed three times the current monthly HUD Fair Market Rent for a unit of comparable size and type to the dwelling or room from which the displacement occurs. If the tenant household is not paying rent during the displacement period, then the property owner shall be entitled to deduct the amount the tenant household would have paid from the relocation payments required under this paragraph.</text>
+          <num>(1)</num>
+          <text>An eligible tenant household that will experience temporary displacement as defined above shall receive monetary relocation payment or payments from the property owner to cover the tenant household's actual and reasonable moving expenses in addition to temporary housing accommodations costs incurred as a result of the temporary displacement. "Moving expenses" shall include the cost of removing, transporting, and/or storing the tenant household's personal property during the displacement period. "Temporary housing accommodations costs" shall include the cost of rental payments and hotel or motel payments during the displacement period. The total amount of temporary housing accommodations costs paid by the property owner shall not exceed three times the current U.S. General Services Administration per diem rate for San Mateo/Foster City/Belmont for a unit of comparable size and type to the dwelling or room from which the displacement occurs. If the tenant household is not paying rent during the displacement period, then the property owner shall be entitled to deduct the amount the tenant household would have paid from the relocation payments required under this paragraph.</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>In lieu of the relocation payments required under subsection (b)(1), the property owner may offer to provide a tenant household temporary housing accommodations. Tenant household shall have the sole option to accept or decline this offer.</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Temporary housing accommodations shall be (a) comparable in size, condition, or amenities to the formerly occupied dwelling or room and (b) comply with all applicable zoning, building and housing codes and (c) shall be located within San Mateo city limits or any jurisdiction that borders San Mateo, unless the tenant agrees in writing to accept temporary housing accommodations in a different location.</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>If the temporary housing accommodations are not comparable in size, condition, or amenities, or not located within San Mateo city limits or a jurisdiction that borders San Mateo, the property owner shall pay a living stipend in the amount of 50% of the current U.S. General Services Administration meals &amp; incidentals per diem rate for San Mateo/Foster City/Belmont, per tenant household member, per day, not to exceed $1000 per tenant household.</text>
         </para>
       </para>
       <para>
         <num>(c)</num>
-        <text>Except as provided in <cite path="7.50.060|(e)">section 7.50.060(e)</cite>, in no event shall the property owner be liable for making payments in excess of the amount the tenant household would receive in the case of permanent displacement under <cite path="7.50.090|(a)">section 7.50.090(a)</cite>.</text>
+        <text>In no event shall the property owner be liable for making payments in excess of the cumulative amount the tenant household would receive in the case of permanent displacement under <cite path="7.50.090|(a)">section 7.50.090(a)</cite> and temporary displacement under <cite path="7.50.090|(b)">section 7.50.090(b)</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -7483,9 +7486,14 @@
         <num>(e)</num>
         <text>Payments for relocation shall not be considered by the City as income or assets for any government benefits program.</text>
       </para>
+      <para>
+        <num>(f)</num>
+        <text>Notwithstanding other provisions of <cite path="7.50">this Chapter</cite>, the City, in its sole discretion and based on objective evidence, may modify an existing "temporary relocation" designation to a "permanent relocation" designation when it is reasonably apparent the noncomplying dwelling or room will not be available for re-occupancy by the tenant household within ninety (90) days.</text>
+      </para>
       <annotations>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-12" eff="2025-12-31" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -7495,11 +7503,11 @@
         <num>(a)</num>
         <text>Written Appeal.</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>A property owner or tenant household may contest a decision, order, or determination regarding relocation payments or a notice of penalty or fine assessed <cite path="7.50">this chapter</cite> by submitting an appeal in writing together with the appeal fee listed in the City's fee schedule. The appeal shall set forth the factual basis for disputing the decision, order, or determination.</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Appeals must be addressed to the Director, and must be received within ten (10) days of the date appearing on the decision, order, or determination regarding relocation benefits or the notice of penalty or fine. A copy of the appeal must be provided by the appellant to any tenant household(s) or property owner(s) directly affected by the appeal on or by the same date that the appeal is received by the Director.</text>
         </para>
       </para>
@@ -7507,19 +7515,19 @@
         <num>(b)</num>
         <text>Hearing Procedure.</text>
         <para>
-          <num>1.</num>
-          <text>Upon receipt of a written appeal and appeal fee, the Director shall schedule a hearing before the City Council. Any tenant household(s) or property owner(s) directly affected by the appeal shall have the right to attend and participate in the hearing.</text>
+          <num>(1)</num>
+          <text>Upon receipt of a written appeal and appeal fee, the Director shall schedule a hearing before a hearing officer. Any tenant household(s) or property owner(s) directly affected by the appeal shall have the right to attend and participate in the hearing.</text>
         </para>
         <para>
-          <num>2.</num>
-          <text>The appeal hearing shall be set for a date within thirty (30) days from the date that the appeal is filed, unless the Director determines that good cause exists for an extension of time. The appellant and any tenant household(s) or property owner(s) directly affected by the appeal shall receive notice of the time and place at least fifteen (15) days prior to the hearing unless the Director determined, in writing, that the matter is urgent, in which case the appellant and any tenant household(s) or property owner(s) directly affected by the appeal shall receive at least five (5) days prior notice of the hearing.</text>
+          <num>(2)</num>
+          <text>The appeal hearing shall be set for a date within thirty (30) days from the date that the appeal is filed or on the next available hearing date, unless the Director determines that good cause exists for an extension of time. The appellant and any tenant household(s) or property owner(s) directly affected by the appeal shall receive notice of the time and place at least fifteen (15) days prior to the hearing unless the Director determined, in writing, that the matter is urgent, in which case the appellant and any tenant household(s) or property owner(s) directly affected by the appeal shall receive at least five (5) days prior notice of the hearing.</text>
         </para>
         <para>
-          <num>3.</num>
-          <text>Documentary evidence and names of potential witnesses shall be provided by the Enforcement Officer and the appellant to the City Council and any tenant household(s) or property owner(s) directly affected by the appeal at least five (5) days prior to the appeal hearing or as soon as practicable prior to the hearing. At the hearing, the tenant household(s) or property owner(s) directly affected by the appeal shall be given the opportunity to testify and to present evidence concerning the decision, order, or determination regarding relocation benefits or the notice of penalty or fine. The failure of appellant to appear at the appeal hearing shall constitute a forfeiture of the fine or penalty (if applicable).</text>
+          <num>(3)</num>
+          <text>Documentary evidence and names of potential witnesses shall be provided by the Enforcement Officer and the appellant to the hearing officer and any tenant household(s) or property owner(s) directly affected by the appeal at least five (5) days prior to the appeal hearing or as soon as practicable prior to the hearing. At the hearing, the tenant household(s) or property owner(s) directly affected by the appeal shall be given the opportunity to testify and to present evidence concerning the decision, order, or determination regarding relocation benefits or the notice of penalty or fine. The failure of appellant to appear at the appeal hearing shall constitute a forfeiture of the fine or penalty (if applicable).</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>The decision, order, or determination regarding relocation benefits or the notice of penalty or fine and any additional report submitted by the Enforcement Officer shall constitute prima facie evidence of the respective facts contained in those documents.</text>
         </para>
       </para>
@@ -7527,21 +7535,18 @@
         <num>(c)</num>
         <text>Decision on Appeal.</text>
         <para>
-          <num>1.</num>
-          <text>After considering all of the testimony and evidence submitted at the hearing, the  City Council shall issue a written decision to uphold or cancel all or part of the decision, order, or determination regarding relocation benefits or the notice of penalty or fine and shall state the reasons for that decision. The decision of the City Council shall include findings regarding the evidence in the record and submitted at the hearing, as well as the existence of any proper grounds for the order to pay relocation benefits or the notice of penalty or fine. A copy of the City Council's written decision shall be provided to the property owner as well as any tenant household(s) directly affected by the appeal.</text>
+          <num>(1)</num>
+          <text>After considering all of the testimony and evidence submitted at the hearing, the hearing officer shall issue a written decision to uphold or cancel all or part of the decision, order, or determination regarding relocation benefits or the notice of penalty or fine and shall state the reasons for that decision. The decision of the hearing officer shall include findings regarding the evidence in the record and submitted at the hearing, as well as the existence of any proper grounds for the order to pay relocation benefits or the notice of penalty or fine. A copy of the hearing officer's written decision shall be provided to the property owner as well as any tenant household(s) directly affected by the appeal. The hearing officer's written decision shall be final and not subject to any further administrative appeals.</text>
         </para>
         <para>
-          <num>2.</num>
-          <text>If the City Council determines that the decision, order, or determination regarding relocation benefits or the notice of penalty or fine should be upheld, then the property owner shall pay the appropriate sum(s) to the tenant household and/or the City within ten (10) days after the property owner's receipt of the  City Council's written decision.</text>
-        </para>
-        <para>
-          <num>3.</num>
-          <text>To the extent allowed by law, the decision and the decision, order, or determination regarding relocation benefits or notice of penalty or fine shall have the same force and effect as a resolution of the City Council for the purpose of filing a lien, special assessment, or for pursuing any other method of collection.</text>
+          <num>(2)</num>
+          <text>If the hearing officer determines that the decision, order, or determination regarding relocation benefits or the notice of penalty or fine should be upheld, then the property owner shall pay the appropriate sum(s) to the tenant household and/or the City within ten (10) days after the property owner's receipt of the hearing officer's written decision.</text>
         </para>
       </para>
       <annotations>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-12" eff="2025-12-31" path="§5" type="History"/>
       </annotations>
     </section>
     <section>

@@ -142,4 +142,8 @@
     </text>
     <text>ATTEST:</text>
   </procedural-data>
+  <codify:replace applicability="2020-10-21" doc="City of San Mateo, Cal., Code" path="10.28|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28">
+    <heading>SAFE GUN STORAGE</heading>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+  </codify:replace>
 </document>

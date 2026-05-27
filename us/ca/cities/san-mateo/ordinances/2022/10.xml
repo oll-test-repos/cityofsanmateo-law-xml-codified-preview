@@ -663,4 +663,16 @@
     </text>
     <text>ATTEST:</text>
   </procedural-data>
+  <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.21">
+    <heading>TWO-UNIT DEVELOPMENT RESIDENTIAL OVERLAY DISTRICT – R1 DISTRICTS</heading>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+  </codify:replace>
+  <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|I|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.21|I">
+    <heading>TWO-UNIT DEVELOPMENT</heading>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+  </codify:replace>
+  <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|II|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.21|II">
+    <heading>URBAN LOT SPLITS</heading>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+  </codify:replace>
 </document>

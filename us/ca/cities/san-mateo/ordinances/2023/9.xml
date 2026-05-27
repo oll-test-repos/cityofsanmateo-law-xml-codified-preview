@@ -148,12 +148,12 @@
         <num>2.80.030</num>
         <heading>LIMITATIONS ON CONTRIBUTIONS.</heading>
         <para>
-          <codify:replace path="2.80.030|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.030|(a)"/>
+          <codify:replace path="2.80.030|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.030"/>
           <num>(a)</num>
           <text>For any particular election, no individual shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any individual any contribution which will cause the total amount contributed by such individual to exceed $500.00.</text>
         </para>
         <para>
-          <codify:replace path="2.80.030|(b)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.030|(b)"/>
+          <codify:replace path="2.80.030|(b)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.030"/>
           <num>(b)</num>
           <text>For any particular election, no organization shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any organization any contribution which will cause the total amount contributed by such organization to exceed $1,000.00.</text>
         </para>

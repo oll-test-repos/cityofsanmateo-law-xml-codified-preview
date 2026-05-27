@@ -284,7 +284,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.32.010|(p)">Subsection (p) of Section 27.32.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <para>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.32.010|(p)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.32.010|(p)"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.32.010|(p)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.32.010"/>
         <num>(p)</num>
         <text>Emergency Shelters, located more than 300 feet from single family zoning districts;</text>
       </para>

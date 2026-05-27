@@ -223,7 +223,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.08.130">Section 23.08.130 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|23.08.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.130"/>
+        <codify:replace path="|23.08.130"/>
         <num>23.08.130</num>
         <heading>Section 1905.1.7 Plain Concrete In Earthquake Resisting Structures Amended</heading>
         <text>1905.1.7 ACI 318 Section 14.1.4. Delete ACI 318, Section 14.1.4, and replace with the following:</text>
@@ -683,4 +683,8 @@
     </text>
     <text>ATTEST:</text>
   </procedural-data>
+  <codify:replace applicability="2023-01-01" doc="City of San Mateo, Cal., Code" path="23.30|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.30">
+    <heading>DANGEROUS BUILDING CODE</heading>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+  </codify:replace>
 </document>

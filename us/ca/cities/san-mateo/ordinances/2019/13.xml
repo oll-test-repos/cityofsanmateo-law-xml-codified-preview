@@ -49,25 +49,25 @@
     <para>
       <num>(a)</num>
       <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.06.011">23.06.011</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.012">23.06.012</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.014">23.06.014</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.015">23.06.015</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.016">23.06.016</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.020">23.06.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.021">23.06.021</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.030">23.06.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.040">23.06.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.050">23.06.050</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.070">23.06.070</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.080">23.06.080</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.090">23.06.090</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.110">23.06.110</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.130">23.06.130</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.140">23.06.140</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.140">23.06.150</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.160">23.06.160</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.06.170">23.06.170</cite> of the San Mateo Municipal Code are repealed.</text>
-      <codify:repeal path="23.06.011" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.011"/>
-      <codify:repeal path="23.06.012" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.012"/>
-      <codify:repeal path="23.06.014" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.014"/>
-      <codify:repeal path="23.06.015" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.015"/>
-      <codify:repeal path="23.06.016" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.016"/>
-      <codify:repeal path="23.06.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.020"/>
-      <codify:repeal path="23.06.021" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.021"/>
-      <codify:repeal path="23.06.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.030"/>
-      <codify:repeal path="23.06.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.040"/>
-      <codify:repeal path="23.06.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.050"/>
-      <codify:repeal path="23.06.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.070"/>
-      <codify:repeal path="23.06.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.080"/>
-      <codify:repeal path="23.06.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.090"/>
-      <codify:repeal path="23.06.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.110"/>
-      <codify:repeal path="23.06.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.130"/>
-      <codify:repeal path="23.06.140" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.140"/>
-      <codify:repeal path="23.06.150" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.150"/>
-      <codify:repeal path="23.06.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.160"/>
-      <codify:repeal path="23.06.170" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.170"/>
+      <codify:repeal path="23.06.011"/>
+      <codify:repeal path="23.06.012"/>
+      <codify:repeal path="23.06.014"/>
+      <codify:repeal path="23.06.015"/>
+      <codify:repeal path="23.06.016"/>
+      <codify:repeal path="23.06.020"/>
+      <codify:repeal path="23.06.021"/>
+      <codify:repeal path="23.06.030"/>
+      <codify:repeal path="23.06.040"/>
+      <codify:repeal path="23.06.050"/>
+      <codify:repeal path="23.06.070"/>
+      <codify:repeal path="23.06.080"/>
+      <codify:repeal path="23.06.090"/>
+      <codify:repeal path="23.06.110"/>
+      <codify:repeal path="23.06.130"/>
+      <codify:repeal path="23.06.140"/>
+      <codify:repeal path="23.06.150"/>
+      <codify:repeal path="23.06.160"/>
+      <codify:repeal path="23.06.170"/>
     </para>
     <para>
       <num>(b)</num>
@@ -257,12 +257,12 @@
     <para>
       <num>(a)</num>
       <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.07.020">23.07.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.030">23.07.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.040">23.07.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.060">23.07.060</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.070">23.07.070</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.07.080">23.07.080</cite> of the San Mateo Municipal Code are repealed.</text>
-      <codify:repeal path="23.07.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.020"/>
-      <codify:repeal path="23.07.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.030"/>
-      <codify:repeal path="23.07.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.040"/>
-      <codify:repeal path="23.07.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.060"/>
-      <codify:repeal path="23.07.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.070"/>
-      <codify:repeal path="23.07.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.080"/>
+      <codify:repeal path="23.07.020"/>
+      <codify:repeal path="23.07.030"/>
+      <codify:repeal path="23.07.040"/>
+      <codify:repeal path="23.07.060"/>
+      <codify:repeal path="23.07.070"/>
+      <codify:repeal path="23.07.080"/>
     </para>
     <para>
       <num>(b)</num>
@@ -294,12 +294,12 @@
     <para>
       <num>(a)</num>
       <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.08.020">23.08.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.030">23.08.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.040">23.08.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.045">23.08.045</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.090">23.08.090</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.080">23.08.080</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.08.160">23.08.160</cite> of the San Mateo Municipal Code are repealed.</text>
-      <codify:repeal path="23.08.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.020"/>
-      <codify:repeal path="23.08.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.030"/>
-      <codify:repeal path="23.08.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.040"/>
-      <codify:repeal path="23.08.045" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.045"/>
-      <codify:repeal path="23.08.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.090"/>
-      <codify:repeal path="23.08.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.160"/>
+      <codify:repeal path="23.08.020"/>
+      <codify:repeal path="23.08.030"/>
+      <codify:repeal path="23.08.040"/>
+      <codify:repeal path="23.08.045"/>
+      <codify:repeal path="23.08.090"/>
+      <codify:repeal path="23.08.160"/>
     </para>
     <para>
       <num>(b)</num>
@@ -329,7 +329,7 @@
       <text><cite doc="City of San Mateo, Cal., Code" path="23.08.130">Section 23.08.130 of the San Mateo Municipal Code</cite> is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.08.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.130"/>
+          <codify:replace path="23.08.130"/>
           <num>23.08.130</num>
           <heading>Section 1905.1.8 Plain Concrete In Earthquake Resisting Structures Amended</heading>
           <text>1905.1.8 ACI 318 Section 14.1.4. Delete ACI 318, Section 14.1.4, and replace with the following:</text>
@@ -614,7 +614,7 @@
       <text><cite doc="City of San Mateo, Cal., Code" path="23.24.060">Section 23.24.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.24.060" applicability="2020-01-01" delay="50" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.060"/>
+          <codify:replace path="23.24.060" applicability="2020-01-01" delay="50"/>
           <num>23.24.060</num>
           <heading>Modifications</heading>
           <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>, the applicant may request a modification as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> of this Code. In applying for the modification, the burden is on the Applicant to demonstrate infeasibility to the City's Building Official.</text>
@@ -714,4 +714,12 @@
     </text>
     <text>ATTEST:</text>
   </procedural-data>
+  <codify:replace applicability="2019-12-18" doc="City of San Mateo, Cal., Code" path="23.36|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.36">
+    <heading>HISTORICAL BUILDING CODE</heading>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+  </codify:replace>
+  <codify:replace applicability="2019-12-18" doc="City of San Mateo, Cal., Code" path="23.38|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.38">
+    <heading>REFERENCED STANDARDS CODE</heading>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+  </codify:replace>
 </document>

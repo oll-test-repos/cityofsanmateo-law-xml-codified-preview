@@ -390,4 +390,8 @@
     </text>
     <text>ATTEST:</text>
   </procedural-data>
+  <codify:replace applicability="2021-04-01" doc="City of San Mateo, Cal., Code" path="5.89|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89">
+    <heading>DISPOSABLE FOOD SERVICE WARE</heading>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+  </codify:replace>
 </document>

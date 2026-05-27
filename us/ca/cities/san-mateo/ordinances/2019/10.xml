@@ -91,7 +91,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="23.70.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.70.020"/>
+          <codify:replace path="23.70.020"/>
           <num>23.70.020</num>
           <heading>Local Amendments to Definitions</heading>
           <para>
